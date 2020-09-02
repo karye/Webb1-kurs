@@ -1,3 +1,7 @@
+---
+description: 'Installera alla verktyg, konfigurera alla inställningar, skapar alla mappar'
+---
+
 # Installera verktyg
 
 ## Installera webbeditorn VS Code & tillägg
