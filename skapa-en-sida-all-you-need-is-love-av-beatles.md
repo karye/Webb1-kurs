@@ -9,6 +9,7 @@ description: Träna radbrytning och att styla med CSS
 * Vi skall skapa en webbsida om Beatles låten "All You Need is Love"
 * Skapa en **mapp** som heter "love"
 * Skapa en fil som heter **love.html**
+* Skapa en mapp **bilder**
 
 ## Resultatet
 

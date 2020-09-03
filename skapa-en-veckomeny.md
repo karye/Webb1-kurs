@@ -10,7 +10,7 @@ description: 'Träna på HTML tabell, och styla med CSS'
 * Skapa en **mapp** som heter "veckomeny"
 * Skapa en webbsida som heter **meny.html**
 * Skapa en CSS-fil som heter **style.css**
-* Skapa en mapp för bilder
+* Skapa en mapp **bilder**
 
 ## Resultatet
 
