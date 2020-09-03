@@ -41,7 +41,7 @@ description: 'Träna på HTML tabell, och styla med CSS'
 
 * Börja med vanliga celler **&lt;td&gt;**
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 ### Skapa en till rad för rätterna
 
@@ -56,8 +56,9 @@ description: 'Träna på HTML tabell, och styla med CSS'
 * Högerklicka på bilden och välj **Spara som...** ned i mappen **bilder**
 * Infoga sen bilderna med **&lt;img&gt;** i varje cell
 * Omvandla första radens celler till kolumnrubriker **&lt;th&gt;**
+* Infoga en tabellrubrik med **&lt;caption&gt;**
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
 ## Styla tabellen med CSS
 
@@ -65,7 +66,20 @@ description: 'Träna på HTML tabell, och styla med CSS'
 
 ![](.gitbook/assets/image%20%2831%29.png)
 
-### Välj Google Font
+### Styla tabellen och texten
 
+* Välj 2 typsnitt från [Google Font](https://fonts.google.com/)
+* Styla rubrik och text med typsnitten
+* Ställ in tabellens bredd
+* Och bildernas bredd för att de inte skall bli så stora
+* Välj en bakgrundsfärg på sidan
 
+![](.gitbook/assets/image%20%2833%29.png)
+
+### Styla cellerna
+
+* Gör cellerna lite luftigare med CSS **padding**
+* Lägg på kanter med **border**
+
+![](.gitbook/assets/image%20%2832%29.png)
 
