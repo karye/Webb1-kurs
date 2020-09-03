@@ -8,8 +8,8 @@ description: Träna på bakgrundsbilder och margin/padding
 
 * Vi skall skapa en affisch för filmen "2001: A Space Odyssey" 
 * Skapa en **mapp** som heter "space-odyssey"
-* Skapa en webbsida som heter space.html
-* Skapa en CSS-fil som heter style.css
+* Skapa en webbsida som heter **space.html**
+* Skapa en CSS-fil som heter **style.css**
 
 ## **Resultatet**
 
