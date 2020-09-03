@@ -11,15 +11,13 @@ description: Träna på bakgrundsbilder och margin/padding
 * Skapa en webbsida som heter space.html
 * Skapa en CSS-fil som heter style.css
 
-## Videor
-
-{% embed url="https://youtu.be/1PxUbAFQKoY" %}
-
-
-
 ## **Resultatet**
 
 ![](.gitbook/assets/image%20%2812%29.png)
+
+## Videor
+
+{% embed url="https://youtu.be/1PxUbAFQKoY" %}
 
 ## **Bilden på jorden**
 

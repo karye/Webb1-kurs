@@ -14,7 +14,7 @@ description: 'Träna på HTML tabell, och styla med CSS'
 
 ## Resultatet
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/image%20%2831%29.png)
 
 ## Videor
 
@@ -39,13 +39,13 @@ description: 'Träna på HTML tabell, och styla med CSS'
 
 ### Välj rätter från [https://www.ica.se/recept/buffe](https://www.ica.se/recept/buffe/)
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2832%29.png)
 
 ### Skapa en första rad för veckodagarna
 
 * Börja med vanliga celler **&lt;td&gt;**
 
-![](.gitbook/assets/image%20%2835%29.png)
+![](.gitbook/assets/image%20%2836%29.png)
 
 ### Skapa en till rad för rätterna
 
@@ -62,13 +62,13 @@ description: 'Träna på HTML tabell, och styla med CSS'
 * Omvandla första radens celler till kolumnrubriker **&lt;th&gt;**
 * Infoga en tabellrubrik med **&lt;caption&gt;**
 
-![](.gitbook/assets/image%20%2836%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
 ## Styla tabellen med CSS
 
 ### Infoga alla tomma CSS-regler
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2833%29.png)
 
 ### Styla tabellen och texten
 
@@ -78,12 +78,12 @@ description: 'Träna på HTML tabell, och styla med CSS'
 * Och bildernas bredd för att de inte skall bli så stora
 * Välj en bakgrundsfärg på sidan
 
-![](.gitbook/assets/image%20%2834%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
 ### Styla cellerna
 
 * Gör cellerna lite luftigare med CSS **padding**
 * Lägg på kanter med **border**
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
