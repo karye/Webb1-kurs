@@ -83,7 +83,7 @@ description: 'Träna på HTML tabell, och styla med CSS'
 ### Styla cellerna
 
 * Gör cellerna lite luftigare med CSS **padding**
-* Lägg på kanter med **border**
+* Lägg till kanter med **border**
 
 ![](.gitbook/assets/image%20%2834%29.png)
 
