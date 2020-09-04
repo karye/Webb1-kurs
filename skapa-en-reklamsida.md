@@ -1,5 +1,5 @@
 ---
-description: 'Träna margin, padding och width'
+description: 'Träna på margin, padding och width'
 ---
 
 # Skapa en reklamsida
