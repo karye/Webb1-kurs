@@ -16,6 +16,10 @@ description: Träna på formatering och styla med CSS
 
 ![](.gitbook/assets/image%20%2842%29.png)
 
+## **Video**
+
+{% embed url="https://youtu.be/1PxUbAFQKoY" %}
+
 ## **Material**
 
 ### **Texten till 'Öppna landskap'**
@@ -48,7 +52,9 @@ Jag trivs bäst när havet svallar, och måsarna ger skri.
 
 ### **Bilderna**
 
-* Ladda ned bilderna
+* Ladda ned följande bilder:
+  * **lundell.jpg**
+  * **landskap.jpg**
 
 ![](.gitbook/assets/image%20%2844%29.png)
 
