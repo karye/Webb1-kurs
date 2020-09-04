@@ -67,8 +67,8 @@ description: Träna radbrytning och att styla med CSS
 ![](.gitbook/assets/image%20%2822%29.png)
 
 * Välj två typsnitt
-  * Ett "Display" för rubriken
-  * Ett "Serif" för stycken
+  * Ett **Display** för rubriken
+  * Ett **Serif** för stycken
 
 ![](.gitbook/assets/image%20%2826%29.png)
 
