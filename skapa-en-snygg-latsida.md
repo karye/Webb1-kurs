@@ -14,7 +14,7 @@ description: Träna på formatering och styla med CSS
 
 ## **Resultat**
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](.gitbook/assets/image%20%2842%29.png)
 
 ## **Material**
 
@@ -50,19 +50,22 @@ Jag trivs bäst när havet svallar, och måsarna ger skri.
 
 * Ladda ned bilderna
 
-[![Lundell.jpg](https://twiggy.smutje.se/images/thumb/Lundell.jpg/200px-Lundell.jpg)](https://twiggy.smutje.se/index.php/Fil:Lundell.jpg) [![skane.jpg](https://twiggy.smutje.se/images/thumb/skane.jpg/400px-skane.jpg)](https://twiggy.smutje.se/index.php/Fil:skane.jpg)
+![](.gitbook/assets/image%20%2844%29.png)
 
-**Bildformat PNG**
+![](.gitbook/assets/image%20%2841%29.png)
 
-[![Lundell.png](https://twiggy.smutje.se/images/Lundell.png)](https://twiggy.smutje.se/index.php/Fil:Lundell.png)
 
-**Tips**
 
-* För copyright-tecknet © utforska [https://dev.w3.org/html5/html-author/charref](https://dev.w3.org/html5/html-author/charref) för
-* Använd: img, background, font, color, padding, margin
-* Kolla upp border stilar: [http://www.w3schools.com/css/css\_border.asp](http://www.w3schools.com/css/css_border.asp)
+## **Uppgift**
 
-### Prova med en bilden i png-format
+* Skapa en webbsida som ser ut som ovan
+* Infoga en sidfor med copyright-tecknet **© Ulf Lundell**
+* Styla sidan med: **img**, **background**, **font**, **color**, **border**, **padding**, **margin**
 
-![](.gitbook/assets/image%20%2842%29.png)
+### Prova med bilden i png-format
+
+* Byt ut bilden **lundell.jpg** med **lundell.png**
+* Vad händer?
+
+![](.gitbook/assets/image%20%2843%29.png)
 
