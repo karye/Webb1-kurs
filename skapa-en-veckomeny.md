@@ -16,7 +16,7 @@ description: 'Träna på HTML tabell, och styla med CSS'
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
 
-## Videor
+## Videogenomgång
 
 {% embed url="https://youtu.be/XG\_RicH7TLY" %}
 

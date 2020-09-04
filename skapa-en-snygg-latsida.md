@@ -16,7 +16,7 @@ description: Träna på formatering och styla med CSS
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
 
-## **Video**
+## Videogenomgång
 
 {% embed url="https://youtu.be/1PxUbAFQKoY" %}
 

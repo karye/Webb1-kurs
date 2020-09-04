@@ -16,7 +16,7 @@ description: Träna redigering i editorn och grundläggande HTML-taggar
 * Skapa en fil som heter **pippi.html**
 * Skapa en mapp **bilder**
 
-## Videor
+## Videogenomgång
 
 {% embed url="https://youtu.be/fcZ\_dx1rf5U?list=PLWjCJDeWfDdc0Sp\_DinOWnodw3KnWCwc1" %}
 

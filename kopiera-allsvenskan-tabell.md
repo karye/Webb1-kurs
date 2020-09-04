@@ -8,3 +8,9 @@ description: Träna på table och mer avancerad styling
 
 ![](.gitbook/assets/image%20%2848%29.png)
 
+## Videogenomgång
+
+{% embed url="https://youtu.be/I-UhJyQ7oR4" %}
+
+
+
