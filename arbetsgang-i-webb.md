@@ -6,3 +6,7 @@ description: Steg-för-steg metod för att bygga en webbsida
 
 ![](.gitbook/assets/image%20%2848%29.png)
 
+{% file src=".gitbook/assets/arbetsgang-i-webb.pdf" caption="Ladda ned arbetsgång-i-webb.pdf" %}
+
+
+
