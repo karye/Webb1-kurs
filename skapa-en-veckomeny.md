@@ -22,8 +22,6 @@ description: 'Träna på HTML tabell, och styla med CSS'
 
 {% embed url="https://youtu.be/6PZAfgb2ApU" %}
 
-{% embed url="https://youtu.be/e7R3ljHNG8M" %}
-
 ## Grundkoden för tabell
 
 ```markup
