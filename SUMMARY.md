@@ -8,4 +8,5 @@
 * [Skapa en snygg låtsida](skapa-en-snygg-latsida.md)
 * [Arbetsgång i webb](arbetsgang-i-webb.md)
 * [Skapa en reklamsida](skapa-en-reklamsida.md)
+* [Kopiera Allsvenskan tabell](kopiera-allsvenskan-tabell.md)
 
