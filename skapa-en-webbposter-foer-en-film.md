@@ -4,6 +4,10 @@ description: Träna på bakgrundsbilder och margin/padding
 
 # Skapa en webbposter för en film
 
+## **Resultatet**
+
+![](.gitbook/assets/image%20%2812%29.png)
+
 ## Förberedelser - webbrot
 
 * Vi skall skapa en affisch för filmen "2001: A Space Odyssey" 
@@ -11,10 +15,6 @@ description: Träna på bakgrundsbilder och margin/padding
 * Skapa en webbsida som heter **space.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
-
-## **Resultatet**
-
-![](.gitbook/assets/image%20%2812%29.png)
 
 ## Videor
 

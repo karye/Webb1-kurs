@@ -4,6 +4,10 @@ description: 'Träna margin, padding och width'
 
 # Skapa en reklamsida
 
+## Resultat
+
+![](.gitbook/assets/image%20%2842%29.png)
+
 ## Steg 1 - förberedelser - webbrot
 
 * Vi skall skapa en veckomeny i en tabell
@@ -11,10 +15,6 @@ description: 'Träna margin, padding och width'
 * Skapa en webbsida som heter **fiji.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
-
-## Resultat
-
-![](.gitbook/assets/image%20%2842%29.png)
 
 ## Steg 2 - skapa HTML-sida
 

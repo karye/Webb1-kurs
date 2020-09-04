@@ -4,6 +4,10 @@ description: 'Träna på HTML tabell, och styla med CSS'
 
 # Skapa en veckomeny
 
+## Resultatet
+
+![](.gitbook/assets/image%20%2831%29.png)
+
 ## Förberedelser - webbrot
 
 * Vi skall skapa en veckomeny i en tabell
@@ -11,10 +15,6 @@ description: 'Träna på HTML tabell, och styla med CSS'
 * Skapa en webbsida som heter **meny.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
-
-## Resultatet
-
-![](.gitbook/assets/image%20%2831%29.png)
 
 ## Videor
 

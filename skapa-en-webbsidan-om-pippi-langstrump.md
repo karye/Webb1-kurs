@@ -4,6 +4,10 @@ description: Träna redigering i editorn och grundläggande HTML-taggar
 
 # Skapa en sida om Pippi Långstrump
 
+## Resultatet
+
+![](.gitbook/assets/image%20%2835%29.png)
+
 ## Förberedelser - webbrot
 
 * Vi skall skapa en webbsida om Pippi Långstrump
@@ -11,10 +15,6 @@ description: Träna redigering i editorn och grundläggande HTML-taggar
 * Skapa en **mapp** som heter "pippi"
 * Skapa en fil som heter **pippi.html**
 * Skapa en mapp **bilder**
-
-## Resultatet
-
-![](.gitbook/assets/image%20%2835%29.png)
 
 ## Videor
 

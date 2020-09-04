@@ -4,6 +4,10 @@ description: Träna på formatering och styla med CSS
 
 # Skapa en snygg låtsida
 
+## **Resultat**
+
+![](.gitbook/assets/image%20%2844%29.png)
+
 ## Förberedelser - webbrot
 
 * Vi skall skapa en veckomeny i en tabell
@@ -11,10 +15,6 @@ description: Träna på formatering och styla med CSS
 * Skapa en webbsida som heter **oppna-landskap.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
-
-## **Resultat**
-
-![](.gitbook/assets/image%20%2844%29.png)
 
 ## **Video**
 

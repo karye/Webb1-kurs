@@ -4,16 +4,16 @@ description: Träna radbrytning och att styla med CSS
 
 # Skapa en sida "All You Need is Love" av Beatles
 
+## Resultatet
+
+![](.gitbook/assets/image%20%2830%29.png)
+
 ## Förberedelser - webbrot
 
 * Vi skall skapa en webbsida om Beatles låten "All You Need is Love"
 * Skapa en **mapp** som heter "love"
 * Skapa en fil som heter **love.html**
 * Skapa en mapp **bilder**
-
-## Resultatet
-
-![](.gitbook/assets/image%20%2830%29.png)
 
 ## Videor
 
