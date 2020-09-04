@@ -14,7 +14,7 @@ description: Träna på formatering och styla med CSS
 
 ## **Resultat**
 
-![](.gitbook/assets/image%20%2842%29.png)
+![](.gitbook/assets/image%20%2844%29.png)
 
 ## **Video**
 
@@ -54,9 +54,9 @@ Jag trivs bäst när havet svallar, och måsarna ger skri.
 
 * Ladda ned följande bilder:
   * **lundell.jpg**
-  * **landskap.jpg**
+  * **skane.jpg**
 
-![](.gitbook/assets/image%20%2844%29.png)
+![](.gitbook/assets/image%20%2846%29.png)
 
 ![](.gitbook/assets/image%20%2841%29.png)
 
@@ -73,5 +73,5 @@ Jag trivs bäst när havet svallar, och måsarna ger skri.
 * Byt ut bilden **lundell.jpg** med **lundell.png**
 * Vad händer?
 
-![](.gitbook/assets/image%20%2843%29.png)
+![](.gitbook/assets/image%20%2845%29.png)
 

@@ -6,4 +6,5 @@
 * [Skapa en webbposter för en film](skapa-en-webbposter-foer-en-film.md)
 * [Skapa en veckomeny](skapa-en-veckomeny.md)
 * [Skapa en snygg låtsida](skapa-en-snygg-latsida.md)
+* [Skapa en reklamsida](skapa-en-reklamsida.md)
 
