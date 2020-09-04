@@ -34,3 +34,21 @@ description: 'Träna margin, padding och width'
 
 ![](.gitbook/assets/image%20%2847%29.png)
 
+### Välj ett sans-serif typsnitt
+
+* Gå till [Google Fonts](https://fonts.google.com) och välj ett **sans-serif** typsnitt
+* Ställ in texternas storlek med **font-size**
+
+### Ställ in bakgrundsbilden
+
+* Använd **background-image** på **body**-elementet
+
+### Anpassa mellanrum
+
+* Använd **margin** på elementen
+
+### Styla länken som en knapp
+
+* Länken ligger i taggen **&lt;p&gt;**
+* Använd **padding**, **border** och **background-color** för styla som en knapp
+
