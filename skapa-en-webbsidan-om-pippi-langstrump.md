@@ -10,7 +10,6 @@ description: Träna redigering i editorn och grundläggande HTML-taggar
 
 ## Förberedelser - webbrot
 
-* Vi skall skapa en webbsida om Pippi Långstrump
 * Text hämtar vi från [https://sv.wikipedia.org/wiki/Pippi\_L%C3%A5ngstrump](https://sv.wikipedia.org/wiki/Pippi_L%C3%A5ngstrump)
 * Skapa en **mapp** som heter "pippi"
 * Skapa en fil som heter **pippi.html**

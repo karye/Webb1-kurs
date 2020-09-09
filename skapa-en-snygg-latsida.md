@@ -10,7 +10,6 @@ description: Träna på formatering och styla med CSS
 
 ## Förberedelser - webbrot
 
-* Vi skall skapa en veckomeny i en tabell
 * Skapa en **mapp** som heter **lundell**
 * Skapa en webbsida som heter **oppna-landskap.html**
 * Skapa en CSS-fil som heter **style.css**

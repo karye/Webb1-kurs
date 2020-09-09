@@ -10,7 +10,6 @@ description: 'Träna på HTML tabell, och styla med CSS'
 
 ## Förberedelser - webbrot
 
-* Vi skall skapa en veckomeny i en tabell
 * Skapa en **mapp** som heter "veckomeny"
 * Skapa en webbsida som heter **meny.html**
 * Skapa en CSS-fil som heter **style.css**
