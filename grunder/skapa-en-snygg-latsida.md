@@ -17,6 +17,8 @@ description: Träna på formatering och styla med CSS
 
 ## Videogenomgång
 
+![](../.gitbook/assets/image%20%2850%29.png)
+
 {% embed url="https://youtu.be/1PxUbAFQKoY" %}
 
 ## **Material**
