@@ -25,7 +25,7 @@ description: Träna på formatering och styla med CSS
 ### **Texten till 'Öppna landskap'**
 
 ```text
-Jag trivs bäst i öppna landskap,nära havet vill jag bo,
+Jag trivs bäst i öppna landskap, nära havet vill jag bo,
 några månader om året, så att själen kan få ro.
 Jag trivs bäst i öppna landskap, där vindarna får fart.
 Där lärkorna slår högt i skyn, och sjunger underbart.
