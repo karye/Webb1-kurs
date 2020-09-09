@@ -15,5 +15,4 @@
 
 * [Skapa en reklamsida](design-med-margin-and-padding/skapa-en-reklamsida.md)
 * [Kopiera Allsvenskan tabell](design-med-margin-and-padding/kopiera-allsvenskan-tabell.md)
-* [Untitled](design-med-margin-and-padding/untitled.md)
 
