@@ -67,7 +67,7 @@ Jag trivs bäst när havet svallar, och måsarna ger skri.
 
 ### Prova med bilden i png-format
 
-* Byt ut bilden **lundell.jpg** med **lundell.png**
+* Byt ut bilden **lundell.jpg** mot **lundell.png**
 * Vad händer?
 
 ![](.gitbook/assets/image%20%2845%29.png)
