@@ -16,7 +16,7 @@
 * [Skapa en reklamsida](design-med-margin-and-padding/skapa-en-reklamsida.md)
 * [Kopiera Allsvenskan tabell](design-med-margin-and-padding/kopiera-allsvenskan-tabell.md)
 
-## Bygga med div-box
+## Kontainer med div-box <a id="bygga-med-div-box"></a>
 
-* [Untitled](bygga-med-div-box/untitled.md)
+## Design med flera div-boxar <a id="bygga-med-flera-div-boxar"></a>
 
