@@ -12,5 +12,3 @@
 
 ## Grunder
 
-* [Untitled](grunder/untitled.md)
-
