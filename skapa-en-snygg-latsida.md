@@ -52,15 +52,11 @@ Jag trivs bäst när havet svallar, och måsarna ger skri.
 
 ### **Bilderna**
 
-* Ladda ned följande bilder:
-  * **lundell.jpg**
-  * **skane.jpg**
+* Ladda ned följande bilder \(högerklicka och Spara bild som...\)
 
-![](.gitbook/assets/image%20%2846%29.png)
+![lundell.jpg](.gitbook/assets/image%20%2846%29.png)
 
-![](.gitbook/assets/image%20%2841%29.png)
-
-
+![skane.jpg](.gitbook/assets/image%20%2841%29.png)
 
 ## **Uppgift**
 
