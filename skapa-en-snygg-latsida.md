@@ -64,10 +64,10 @@ Jag trivs bäst när havet svallar, och måsarna ger skri.
 
 ## **Uppgift**
 
-* [ ] Skapa en webbsida som ser ut som ovan
-* [ ] Välj ett typsnitt på [Google Fonts](https://fonts.google.com)
-* [ ] Infoga en sidfot med copyright-tecknet **© Ulf Lundell**
-* [ ] Styla sidan med: **img**, **background**, **font**, **color**, **border**, **padding**, **margin**
+1. Skapa en webbsida som ser ut som ovan
+2. Välj ett typsnitt på [Google Fonts](https://fonts.google.com)
+3. Infoga en sidfot med copyright-tecknet **© Ulf Lundell**
+4. Styla sidan med: **img**, **background**, **font**, **color**, **border**, **padding**, **margin**
 
 ### Prova med bilden i png-format
 
