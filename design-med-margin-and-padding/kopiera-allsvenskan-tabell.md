@@ -10,6 +10,8 @@ description: 'Bygga en tabell lika snygg som på https://www.allsvenskan.se/tabe
 
 ## Genomgång
 
+* Hur gör man avancerad CSS-styling av tabeller och dess delar
+
 {% embed url="https://youtu.be/I-UhJyQ7oR4" %}
 
 ## Steg 1 - förberedelser - webbrot

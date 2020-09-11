@@ -8,6 +8,14 @@ description: Träna på att använda div-boxen för att skapa en kontainer
 
 ![](.gitbook/assets/image%20%2851%29.png)
 
+## Genomgång
+
+* Hur använder man Chrome utvecklarverktyg
+
+{% embed url="https://youtu.be/09XV2psDAZ4" %}
+
+
+
 ## Steg 1 - förberedelser - webbrot
 
 * Skapa en mapp som heter **visitkort**

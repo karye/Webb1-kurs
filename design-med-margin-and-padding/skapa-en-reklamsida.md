@@ -10,6 +10,8 @@ description: 'Träna på margin, padding och width'
 
 ## Genomgång
 
+* Hur använder man margin och padding
+
 ![](../.gitbook/assets/image%20%2850%29.png)
 
 {% embed url="https://youtu.be/1PxUbAFQKoY" %}
