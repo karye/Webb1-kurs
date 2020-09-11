@@ -19,7 +19,7 @@
 
 ## Kontainer div-box
 
-* [Skapa ett visitkort](kontainer-div-box/skapa-ett-visitkort.md)
+* [Skapa visitkort](kontainer-div-box/skapa-visitkort.md)
 
 ## Design med flera div-boxar <a id="bygga-med-flera-div-boxar"></a>
 

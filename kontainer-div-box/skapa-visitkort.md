@@ -2,7 +2,7 @@
 description: Träna på att använda div-boxen för att skapa en kontainer
 ---
 
-# Skapa ett visitkort
+# Skapa visitkort
 
 ## Resultat
 
