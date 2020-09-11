@@ -20,25 +20,7 @@ description: Träna på att använda div-boxen för att skapa en kontainer
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan
 
-```markup
-<!DOCTYPE html>
-<html lang="sv">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Min presentation</title>
-    <link rel="stylesheet" href="./visitkort.css">
-</head>
-<body>
-    <div>
-        <h1>Karim Ryde</h1>
-        <h2>Webblärare</h2>
-        <p>Mingata 99<br>
-        123 45 Stockholm</p>
-    </div>
-</body>
-</html>
-```
+![](.gitbook/assets/image%20%2852%29.png)
 
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
@@ -47,28 +29,7 @@ description: Träna på att använda div-boxen för att skapa en kontainer
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
 * Skapa en ruta med **div**-elementet genom att låsa bredd och höjd
 
-```css
-/* Enkel CSS-reset */
-
-
-body {
-    background: rgb(182, 182, 182);
-}
-div {
-    width: 500px;
-    height: 300px;
-
-}
-h1 {
-
-}
-h2 {
-
-}
-p {
-
-}
-```
+![](.gitbook/assets/image%20%2853%29.png)
 
 ### Välj två typsnitt
 
