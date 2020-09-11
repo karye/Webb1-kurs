@@ -40,6 +40,9 @@ description: 'Träna på margin, padding och width'
 
 ### Ställ in bakgrundsbilden
 
+* Välj ut ett foto på [unsplash.com](https://unsplash.com/)
+* Ladda ned fotot i mappen **bilder**
+* Anpassa fotot storlek till ca 2000px bredd
 * Använd **background-image** på **body**-elementet
 
 ### Anpassa mellanrum
