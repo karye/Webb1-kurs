@@ -20,6 +20,7 @@
 ## Kontainer div-box
 
 * [Skapa visitkort](kontainer-div-box/skapa-visitkort.md)
+* [Skapa receptsida](kontainer-div-box/skapa-receptsida.md)
 
 ## Design med flera div-boxar <a id="bygga-med-flera-div-boxar"></a>
 
