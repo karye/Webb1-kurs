@@ -1,5 +1,5 @@
 ---
-description: Träna på table och mer avancerad styling
+description: Bygga en tabell lika snygg som på Internet
 ---
 
 # Kopiera Allsvenskan tabell
