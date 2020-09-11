@@ -15,7 +15,7 @@ description: Träna på formatering och styla med CSS
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
 
-## Videogenomgång
+## Genomgång
 
 ![](../.gitbook/assets/image%20%2850%29.png)
 

@@ -14,7 +14,7 @@ description: Träna radbrytning och att styla med CSS
 * Skapa en fil som heter **love.html**
 * Skapa en mapp **bilder**
 
-## Videogenomgång
+## Genomgång
 
 {% embed url="https://youtu.be/rXr3vq-iGns?list=PLWjCJDeWfDdc0Sp\_DinOWnodw3KnWCwc1" %}
 

@@ -8,6 +8,12 @@ description: 'Träna på margin, padding och width'
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
+## Genomgång
+
+![](../.gitbook/assets/image%20%2850%29.png)
+
+{% embed url="https://youtu.be/1PxUbAFQKoY" %}
+
 ## Steg 1 - förberedelser - webbrot
 
 * Skapa en **mapp** som heter **fiji**

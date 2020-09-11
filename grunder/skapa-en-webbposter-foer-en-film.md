@@ -15,7 +15,7 @@ description: Träna på bakgrundsbilder och margin/padding
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
 
-## Videogenomgång
+## Genomgång
 
 {% embed url="https://youtu.be/pF-AeeBIvzo" %}
 
