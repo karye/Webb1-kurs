@@ -31,7 +31,7 @@ Viktigt! Skapa först _bara_ **arbete1.html**
 
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan
-* Länka till sidan efter: **arbete2.html**
+* Länka pil-framåt till sidan efter: **arbete2.html**
 
 ### Dikten av Ulf Lundell
 
@@ -105,6 +105,6 @@ arbete
 ### Ställ in en ny bakgrund
 
 * Välj ut ett till mönster som kan repeteras från [https://www.freepik.com/free-photos-vectors/seamless-pattern](https://www.freepik.com/free-photos-vectors/seamless-pattern)
-* Länka tillbaka till sidan före **arbete1.html**
-* Länka till sidan efter **arbete2.html**
+* Länka pil-framåt tillbaka till sidan före: **arbete1.html**
+* Länka pil-bakåt till sidan efter: **arbete2.html**
 
