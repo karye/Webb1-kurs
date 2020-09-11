@@ -21,7 +21,7 @@ description: 'Träna på margin, padding och width'
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
 
-## Steg 2 - skapa HTML-sida
+## Steg 2 - skapa HTML-sidan
 
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan

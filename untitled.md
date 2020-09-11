@@ -15,7 +15,7 @@ description: Träna på att använda div-boxen för att skapa en kontainer
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
 
-## Steg 2 - skapa HTML-sida <a id="steg-2-skapa-html-sida"></a>
+## Steg 2 - skapa HTML-sidan <a id="steg-2-skapa-html-sida"></a>
 
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan
