@@ -16,7 +16,7 @@ description: 'Träna på margin, padding och width'
 
 ## Steg 1 - förberedelser - webbrot
 
-* Skapa en **mapp** som heter **fiji**
+* Skapa en mapp som heter **fiji**
 * Skapa en webbsida som heter **fiji.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**

@@ -10,7 +10,7 @@ description: Träna på formatering och styla med CSS
 
 ## Förberedelser - webbrot
 
-* Skapa en **mapp** som heter **lundell**
+* Skapa en mapp som heter **lundell**
 * Skapa en webbsida som heter **oppna-landskap.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**

@@ -14,7 +14,7 @@ description: 'Bygga en tabell lika snygg som på https://www.allsvenskan.se/tabe
 
 ## Steg 1 - förberedelser - webbrot
 
-* Skapa en **mapp** som heter **allsvenskan**
+* Skapa en mapp som heter **allsvenskan**
 * Skapa en webbsida som heter **tabell.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**

@@ -10,7 +10,7 @@ description: Träna på bakgrundsbilder och margin/padding
 
 ## Förberedelser - webbrot
 
-* Skapa en **mapp** som heter "space-odyssey"
+* Skapa en mapp som heter "space-odyssey"
 * Skapa en webbsida som heter **space.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
