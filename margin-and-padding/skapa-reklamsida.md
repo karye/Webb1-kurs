@@ -2,7 +2,7 @@
 description: 'Träna på margin, padding och width'
 ---
 
-# Skapa en reklamsida
+# Skapa reklamsida
 
 ## Resultat
 

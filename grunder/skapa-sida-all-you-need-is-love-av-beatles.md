@@ -2,7 +2,7 @@
 description: Träna radbrytning och att styla med CSS
 ---
 
-# Skapa en sida "All You Need is Love" av Beatles
+# Skapa sida "All You Need is Love" av Beatles
 
 ## Resultatet
 

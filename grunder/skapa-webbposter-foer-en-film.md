@@ -2,7 +2,7 @@
 description: Träna på bakgrundsbilder och margin/padding
 ---
 
-# Skapa en webbposter för en film
+# Skapa webbposter för en film
 
 ## **Resultatet**
 
