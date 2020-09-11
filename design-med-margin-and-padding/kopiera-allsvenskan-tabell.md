@@ -31,5 +31,27 @@ description: 'Bygga en tabell lika snygg som på https://www.allsvenskan.se/tabe
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
 * Som bakgrundsbild använd [https://www.allsvenskan.se/\_/asset/no.seeds.app.sef:1558607105/img/flow.png](https://www.allsvenskan.se/_/asset/no.seeds.app.sef:1558607105/img/flow.png)
 
+```css
+body {
 
+}
+table {
+
+}
+caption {
+
+}
+tr:nth-child(even) {
+
+}
+th {
+
+}
+td {
+
+}
+img {
+
+}
+```
 

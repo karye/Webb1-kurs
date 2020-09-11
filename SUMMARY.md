@@ -8,12 +8,12 @@
 * [Skapa en sida "All You Need is Love" av Beatles](grunder/skapa-en-sida-all-you-need-is-love-av-beatles.md)
 * [Skapa en webbposter för en film](grunder/skapa-en-webbposter-foer-en-film.md)
 * [Skapa en veckomeny](grunder/skapa-en-veckomeny.md)
-* [Uppgift - skapa en snygg låtsida](grunder/skapa-en-snygg-latsida.md)
-* [Arbetsgång i webb](grunder/arbetsgang-i-webb.md)
 * [Finn alla fel](grunder/finn-alla-fel.md)
 
 ## Design med margin & padding
 
+* [Arbetsgång i webb](design-med-margin-and-padding/arbetsgang-i-webb.md)
+* [Uppgift - skapa en snygg låtsida](design-med-margin-and-padding/skapa-en-snygg-latsida.md)
 * [Skapa en reklamsida](design-med-margin-and-padding/skapa-en-reklamsida.md)
 * [Kopiera Allsvenskan tabell](design-med-margin-and-padding/kopiera-allsvenskan-tabell.md)
 
