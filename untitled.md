@@ -73,6 +73,8 @@ p {
 ### Välj två typsnitt
 
 * Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt
+  * Ett typsnitt för **&lt;h1&gt;** och **&lt;h2&gt;**
+  * Ett typsnitt för **&lt;p&gt;**
 * Ställ in texternas storlek med **font-size**
 
 ### Ställ in bakgrundsbilden
