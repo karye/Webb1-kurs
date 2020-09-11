@@ -1,5 +1,5 @@
 ---
-description: Bygga en tabell lika snygg som på Internet
+description: 'Bygga en tabell lika snygg som på https://www.allsvenskan.se/tabell'
 ---
 
 # Kopiera Allsvenskan tabell
