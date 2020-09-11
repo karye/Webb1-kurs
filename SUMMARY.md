@@ -19,9 +19,7 @@
 
 ## Kontainer div-box <a id="bygga-med-div-box"></a>
 
----
-
-* [Skapa ett visitkort](untitled.md)
+* [Skapa ett visitkort](bygga-med-div-box/untitled.md)
 
 ## Design med flera div-boxar <a id="bygga-med-flera-div-boxar"></a>
 
