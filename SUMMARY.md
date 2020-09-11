@@ -21,6 +21,7 @@
 
 * [Skapa visitkort](kontainer-div-box/skapa-visitkort.md)
 * [Skapa receptsida](kontainer-div-box/skapa-receptsida.md)
+* [Skapa flöde av sidor](kontainer-div-box/skapa-floede-av-sidor.md)
 
 ## Design med flera div-boxar <a id="bygga-med-flera-div-boxar"></a>
 

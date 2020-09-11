@@ -6,7 +6,7 @@ description: Använda <div> för att skapa en snygg ruta
 
 ## Resultat
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 ## Genomgång
 
