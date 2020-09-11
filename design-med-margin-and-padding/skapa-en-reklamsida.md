@@ -32,9 +32,8 @@ description: 'Träna på margin, padding och width'
 
 ## **Steg 3 - snygga till sidan med CSS**
 
-### Skapa en CSS-sida
+### CSS-reglerna
 
-* Skapa en ny fil som heter **style.css**
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
 
 ![](../.gitbook/assets/image%20%2847%29.png)
