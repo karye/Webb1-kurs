@@ -10,6 +10,7 @@
 * [Skapa en veckomeny](grunder/skapa-en-veckomeny.md)
 * [Uppgift - skapa en snygg låtsida](grunder/skapa-en-snygg-latsida.md)
 * [Arbetsgång i webb](grunder/arbetsgang-i-webb.md)
+* [Finn alla fel](grunder/finn-alla-fel.md)
 
 ## Design med margin & padding
 
