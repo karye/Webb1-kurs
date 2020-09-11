@@ -28,25 +28,13 @@ description: Använda <div> för att skapa en snygg ruta
 
 ### Scones receptet
 
-```text
-Äppelscones
-Portioner: 12-15 scones
-Tid: 15 minuter + 15 minuter i ugn
-2,5 dl (150 g) vetemjöl
-1,5 dl (80 g) dinkelfullkornsmjöl eller grahamsmjöl
-0,5 dl strösocker
-2 tsk bakpulver
-1 tsk kanel
-1 krm salt
-75 g kylskåpskallt smör
-1 medelstort äpple, cirka 125 g
-1 ägg
-```
+* Receptet hämtas från [http://www.scones.se/scones-med-apple-och-kanel](http://www.scones.se/scones-med-apple-och-kanel)
 
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
 ### CSS-reglerna <a id="css-reglerna"></a>
 
+* Infoga först CSS-reset
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
 * Skapa en ruta med **div**-elementet genom att låsa bredd och höjd
 
@@ -64,8 +52,6 @@ Tid: 15 minuter + 15 minuter i ugn
 * Anpassa fotot storlek till ca 2000px bredd
 * Använd **background-image** på **body**-elementet
 * Använd **margin** på elementen
-
-### Infoga en CSS-reset
 
 ```css
 /* Enkel CSS-reset */
