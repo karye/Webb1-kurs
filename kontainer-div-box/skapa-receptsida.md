@@ -38,9 +38,9 @@ description: Använda <div> för att skapa en snygg ruta
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
 * Skapa en ruta med **div**-elementet genom att låsa bredd och höjd
 
-### Välj två typsnitt
+### Välj typsnitt
 
-* Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt
+* Gå till [Google Fonts](https://fonts.google.com) och välj tre typsnitt
   * Ett typsnitt för **&lt;h1&gt;** och **&lt;h2&gt;**
   * Ett typsnitt för **&lt;p&gt;**
   * Ett typsnitt för **&lt;ul&gt;**
@@ -53,18 +53,4 @@ description: Använda <div> för att skapa en snygg ruta
 * Anpassa fotot storlek till ca 2000px bredd
 * Använd **background-image** på **body**-elementet
 * Använd **margin** på elementen
-
-```css
-/* Enkel CSS-reset */
-html {
-    box-sizing: border-box;
-}
-*, *:before, *:after {
-    box-sizing: inherit;
-}
-body, h1, h2, h3, h4, h5, h6, p, ul {
-    margin: 0;
-    padding: 0;
-}
-```
 
