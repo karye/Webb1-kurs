@@ -24,7 +24,7 @@ description: Hitta alla HTML-fel i koden
     
 	<p>Ha-ha nu har jag gjort det igen<br>
 	jag har varit dum mot mig själv<br>
-	jag är så bra på sånt, eller hur?<br>
+	jag är så bra på sånt, eller hur?</p><br>
     
 	<p>tralala lilla <em>molntuss</em>... tralala lilla <em>molntuss</em>
         kom hit skall du få en <strong>puss</strong></p></p>
@@ -37,8 +37,8 @@ description: Hitta alla HTML-fel i koden
 	<p><a href="http://www.bobhund.se">Bob Hund</p></a>
 
     <h2>Erkännande</h3>
-    <ul>Mer info om Bob Hund finns på Wikipedia</ul>
-    <ul>Bild av C Dustin på Unsplash</ul>
+    <li>Mer info om Bob Hund finns på Wikipedia</li>
+    <li>Bild av C Dustin på Unsplash</li>
 </body>
 </html>
 ```
