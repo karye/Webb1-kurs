@@ -15,7 +15,7 @@ description: Träna på table och mer avancerad styling
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
 
-## Videogenomgång
+## Genomgång
 
 {% embed url="https://youtu.be/I-UhJyQ7oR4" %}
 
