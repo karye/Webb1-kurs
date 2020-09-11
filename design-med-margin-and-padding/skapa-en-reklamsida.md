@@ -28,8 +28,6 @@ description: 'Träna på margin, padding och width'
 
 ![](../.gitbook/assets/image%20%2843%29.png)
 
-
-
 ## **Steg 3 - snygga till sidan med CSS**
 
 ### CSS-reglerna
