@@ -15,9 +15,9 @@
 * [Arbetsgång i webb](design-med-margin-and-padding/arbetsgang-i-webb.md)
 * [Uppgift - skapa en snygg låtsida](design-med-margin-and-padding/skapa-en-snygg-latsida.md)
 * [Skapa en reklamsida](design-med-margin-and-padding/skapa-en-reklamsida.md)
-* [Kopiera Allsvenskan tabell](design-med-margin-and-padding/kopiera-allsvenskan-tabell.md)
+* [Kopiera Allsvenskan tabellen](design-med-margin-and-padding/kopiera-allsvenskan-tabell.md)
 
-## Kontainer med div-box <a id="bygga-med-div-box"></a>
+## Kontainer div-box <a id="bygga-med-div-box"></a>
 
 ## Design med flera div-boxar <a id="bygga-med-flera-div-boxar"></a>
 
