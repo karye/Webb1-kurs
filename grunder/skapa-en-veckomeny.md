@@ -23,6 +23,8 @@ description: 'Träna på HTML tabell, och styla med CSS'
 
 ## Grundkoden för tabell
 
+* Enklaste formen av tabell ser ut som följer:
+
 ```markup
 <table>
   <tr>
