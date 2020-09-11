@@ -12,7 +12,7 @@ description: Hur man enklast skapar flera sidor med samma grundsstilar
 
 ## Genomgång
 
-
+{% embed url="https://youtu.be/Oo1FhkvshRo" caption="Hur man använder mönster på snyggt sätt" %}
 
 ## Steg 1 - förberedelser - webbrot
 
@@ -23,15 +23,15 @@ description: Hur man enklast skapar flera sidor med samma grundsstilar
 
 ## Steg 2 - skapa HTML-sidan <a id="steg-2-skapa-html-sida"></a>
 
-{% hint style="info" %}
-Viktigt! Skapa först **bara** arbete1.html
+{% hint style="warning" %}
+Viktigt! Skapa först _bara_ **arbete1.html**
 {% endhint %}
 
 ### Grundkoden till arbete1.html
 
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan
-* Receptet hämtas från [http://www.scones.se/scones-med-apple-och-kanel](http://www.scones.se/scones-med-apple-och-kanel)
+* Länka till sidan efter: **arbete2.html**
 
 ### Dikten av Ulf Lundell
 
@@ -75,7 +75,7 @@ arbete
 
 ### CSS-reglerna <a id="css-reglerna"></a>
 
-* Infoga först CSS-reset
+* Infoga överst CSS-reset
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
 * Skapa en ruta med **div**-elementet genom att låsa bredd och höjd
 
@@ -87,12 +87,24 @@ arbete
   * Ett typsnitt för **&lt;ul&gt;**
 * Ställ in texternas storlek med **font-size**
 
-### Ställ in bakgrundsbilden
+### Ställ in bakgrundsbilden på första sidan
 
 * Välj ut ett mönster som kan repeteras från [https://www.freepik.com/free-photos-vectors/seamless-pattern](https://www.freepik.com/free-photos-vectors/seamless-pattern)
-* Ladda ned möstret i mappen **bilder**
+* Ladda ned mönstret i mappen **bilder**
 * Använd **background-image** på **body**-elementet
 * Använd padding, **margin** och **border** på elementen
 
+## Skapa nu nästa HTML-sida
 
+{% hint style="warning" %}
+1. Spara **arbete1.html**
+2. I menyn **File** välj **Save as...**
+3. Spara nu en ny kopia **arbete2.html**
+{% endhint %}
+
+### Ställ in en ny bakgrund
+
+* Välj ut ett till mönster som kan repeteras från [https://www.freepik.com/free-photos-vectors/seamless-pattern](https://www.freepik.com/free-photos-vectors/seamless-pattern)
+* Länka tillbaka till sidan före **arbete1.html**
+* Länka till sidan efter **arbete2.html**
 
