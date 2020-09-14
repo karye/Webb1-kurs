@@ -6,9 +6,9 @@ description: 'Installera alla verktyg, konfigurera alla inställningar, skapar a
 
 ## Installera webbeditorn VS Code & tillägg
 
-* Installera VS Code
+* Installera [VS Code](https://code.visualstudio.com/)
 * Installera tillägg
-* Installera git-scm
+* Installera [git-scm](https://git-scm.com/)
 
 ![](.gitbook/assets/image%20%2811%29.png)
 
