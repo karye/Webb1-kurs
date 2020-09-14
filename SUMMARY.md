@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Installera verktygen](README.md)
+* [Introduktion](README.md)
 
 ## Grundläggande HTML & CSS <a id="grunder"></a>
 

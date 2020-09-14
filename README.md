@@ -2,7 +2,7 @@
 description: 'Installera alla verktyg, konfigurera alla inställningar, skapar alla mappar'
 ---
 
-# Installera verktygen
+# Introduktion
 
 ## Installera webbeditorn VS Code & tillägg
 
@@ -20,4 +20,8 @@ description: 'Installera alla verktyg, konfigurera alla inställningar, skapar a
 * Klona EE19-ar2 i VS Code inuti c:/github
 
 ![](.gitbook/assets/image%20%2824%29.png)
+
+## Bra webbsidor för att förkovra dig
+
+* [https://learn-the-web.algonquindesign.ca/courses/web-design-1/](https://learn-the-web.algonquindesign.ca/courses/web-design-1/)
 
