@@ -8,7 +8,7 @@ description: Hitta alla HTML-fel i koden
 
 * Några fel har smugit sig in i koden
 * Kan du hitta alla fel?
-* Och rätta till...
+* Och ändra till det rätta
 
 ```markup
 <!DOCTYPE HTML>
