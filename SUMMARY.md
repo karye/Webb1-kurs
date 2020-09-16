@@ -11,7 +11,7 @@
 * [Uppgift - skapa en snygg låtsida](grunder/skapa-snygg-latsida.md)
 * [Finn alla fel](grunder/finn-alla-fel.md)
 
-## Design med margin & padding <a id="margin-and-padding"></a>
+## Design med margin/padding <a id="margin-and-padding"></a>
 
 * [Arbetsgång i webb](margin-and-padding/arbetsgang-i-webb.md)
 * [Skapa reklamsida](margin-and-padding/skapa-reklamsida.md)
