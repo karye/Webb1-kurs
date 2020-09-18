@@ -14,10 +14,10 @@ description: 'Installera alla verktyg, konfigurera alla inställningar, skapar a
 
 ## Skapa en utvecklingsmiljö
 
-* Skapa ett konto på github
+* Skapa ett konto på [github.com](https://github.com/)
 * Skapa en repository EE19-ar2
-* Skapa en mapp c:/github
-* Klona EE19-ar2 i VS Code inuti c:/github
+* Skapa en mapp **c:/github**
+* Klona EE19-ar2 i VS Code inuti **c:/github**
 
 ![Skapa c:/github](.gitbook/assets/image%20%2824%29.png)
 
