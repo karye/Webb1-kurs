@@ -28,7 +28,7 @@ description: Använda <div> för att skapa en snygg ruta
 
 ### Scones receptet
 
-* Välj ett recept på [http://www.scones.se](http://www.scones.se/)
+* Välj ett recept på [http://www.scones.se](http://www.scones.se/scones-med-apple-och-kanel)
 
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
