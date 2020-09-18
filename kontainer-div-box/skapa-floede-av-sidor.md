@@ -24,7 +24,8 @@ description: Hur man enklast skapar flera sidor med samma grundsstilar
 ## Steg 2 - skapa HTML-sidan <a id="steg-2-skapa-html-sida"></a>
 
 {% hint style="warning" %}
-Viktigt! Skapa _bara_ **arbete1.html**
+Viktigt! Skapa _bara_ **arbete1.html**  
+De andra sidorna skapas senare
 {% endhint %}
 
 ### Grundkoden till arbete1.html
