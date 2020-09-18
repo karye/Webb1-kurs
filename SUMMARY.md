@@ -21,11 +21,12 @@
 
 * [Skapa visitkort](kontainer-div-box/skapa-visitkort.md)
 * [Skapa receptsida](kontainer-div-box/skapa-receptsida.md)
-* [Skapa flöde av sidor](kontainer-div-box/skapa-floede-av-sidor.md)
+* [Skapa flera sidor](kontainer-div-box/skapa-floede-av-sidor.md)
 
 ## Design med flera div-boxar <a id="bygga-med-flera-div-boxar"></a>
 
-## Textplacering med float
+* [Skapa en blogg](bygga-med-flera-div-boxar/skapa-en-blogg.md)
+* [Bildgalleri](bygga-med-flera-div-boxar/bildgalleri.md)
 
 ## Webbplats med meny <a id="hel-webbplats-med-meny"></a>
 

@@ -1,8 +1,8 @@
 ---
-description: Hur man enklast skapar flera sidor med samma grundsstilar
+description: Hur man enkelt skapar flera sidor med samma grundsstilar
 ---
 
-# Skapa flöde av sidor
+# Skapa flera sidor
 
 ## Resultat
 
@@ -103,7 +103,7 @@ arbete
 3. Spara nu en ny kopia **arbete2.html**
 {% endhint %}
 
-### Ställ in en ny bakgrund
+### Ställ in en ny bakgrund mha class
 
 * Välj ut ett till mönster som kan repeteras från [https://www.freepik.com/free-photos-vectors/seamless-pattern](https://www.freepik.com/free-photos-vectors/seamless-pattern)
 * Länka pil-framåt tillbaka till sidan före: **arbete1.html**
