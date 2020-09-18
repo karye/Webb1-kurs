@@ -19,7 +19,7 @@ description: 'Installera alla verktyg, konfigurera alla inställningar, skapar a
 * Skapa en mapp c:/github
 * Klona EE19-ar2 i VS Code inuti c:/github
 
-![](.gitbook/assets/image%20%2824%29.png)
+![Skapa c:/github](.gitbook/assets/image%20%2824%29.png)
 
 ## Bra webbsidor för att fördjupa dig i webbutveckling
 
