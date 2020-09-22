@@ -72,6 +72,8 @@ syssla med nåt satans
 arbete
 ```
 
+![](../.gitbook/assets/image%20%2863%29.png)
+
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
 ### CSS-reglerna <a id="css-reglerna"></a>
@@ -108,4 +110,6 @@ arbete
 * Välj ut ett till mönster som kan repeteras från [https://www.freepik.com/free-photos-vectors/seamless-pattern](https://www.freepik.com/free-photos-vectors/seamless-pattern)
 * Länka pil-framåt tillbaka till sidan före: **arbete1.html**
 * Länka pil-bakåt till sidan efter: **arbete2.html**
+
+![](../.gitbook/assets/image%20%2864%29.png)
 
