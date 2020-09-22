@@ -28,12 +28,6 @@ Viktigt! Skapa _bara_ **arbete1.html**
 De andra sidorna skapas senare
 {% endhint %}
 
-### Grundkoden till arbete1.html
-
-* Börja med grundkoden
-* Fyll i alla HTML-element som bygger upp sidan
-* Länka pil-framåt till sidan efter: **arbete2.html**
-
 ### Dikten av Ulf Lundell
 
 ```text
@@ -72,6 +66,12 @@ syssla med nåt satans
 arbete
 ```
 
+### Grundkoden till arbete1.html
+
+* Börja med grundkoden
+* Fyll i alla HTML-element som bygger upp sidan
+* Länka pil-framåt till sidan efter: **arbete2.html**
+
 ![](../.gitbook/assets/image%20%2863%29.png)
 
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
@@ -105,11 +105,11 @@ arbete
 3. Spara nu en ny kopia **arbete2.html**
 {% endhint %}
 
+![](../.gitbook/assets/image%20%2864%29.png)
+
 ### Ställ in en ny bakgrund mha class
 
 * Välj ut ett till mönster som kan repeteras från [https://www.freepik.com/free-photos-vectors/seamless-pattern](https://www.freepik.com/free-photos-vectors/seamless-pattern)
 * Länka pil-framåt tillbaka till sidan före: **arbete1.html**
 * Länka pil-bakåt till sidan efter: **arbete2.html**
-
-![](../.gitbook/assets/image%20%2864%29.png)
 
