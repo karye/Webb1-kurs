@@ -1,5 +1,5 @@
 ---
-description: Hur man enkelt skapar flera sidor med samma grundsstilar
+description: Hur man enkelt skapar flera sidor med samma grundsstilar.
 ---
 
 # Skapa flera sidor
