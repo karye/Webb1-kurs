@@ -26,6 +26,8 @@ description: Använda klasser för att styla olika
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan
 
+![](../.gitbook/assets/image%20%2864%29.png)
+
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
 ### CSS-reglerna <a id="css-reglerna"></a>
@@ -37,4 +39,6 @@ description: Använda klasser för att styla olika
 ### Välj typsnitt
 
 * Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt
+
+![](../.gitbook/assets/image%20%2866%29.png)
 

@@ -105,7 +105,7 @@ arbete
 3. Spara nu en ny kopia **arbete2.html**
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 ### Ställ in en ny bakgrund mha class
 
