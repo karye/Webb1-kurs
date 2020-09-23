@@ -70,6 +70,7 @@ arbete
 
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan
+* Välj en [symbol-pil](https://dev.w3.org/html5/html-author/charref)
 * Länka pil-framåt till sidan efter: **arbete2.html**
 
 ![](../.gitbook/assets/image%20%2863%29.png)
