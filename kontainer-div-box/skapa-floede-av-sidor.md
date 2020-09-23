@@ -96,6 +96,12 @@ arbete
 * Använd **background-image** på **body**-elementet
 * Använd padding, **margin** och **border** på elementen
 
+### Styla div-boxen
+
+* Ställ in bredden med width: 600px
+* Ställ in margin och padding
+* Välj en kant enligt [border-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)
+
 ## Skapa nu nästa HTML-sida
 
 {% hint style="warning" %}
