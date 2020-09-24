@@ -10,6 +10,8 @@ description: En webbplats med bakgrundsvideo och sticky meny
 
 ## Genomgång
 
+{% embed url="https://youtu.be/QnRBrDgeOuw" %}
+
 ## Steg 1 - förberedelser - webbrot
 
 * Skapa en mapp som heter **bildgalleri**

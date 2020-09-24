@@ -10,7 +10,7 @@ description: Med CSS grid är det mycket lätt att skapa kolumner och rutor.
 
 ## Genomgång
 
-{% embed url="https://youtu.be/fXbxt09eHj8" caption="Hur man använder float och clear" %}
+{% embed url="https://youtu.be/FyIy\_asBTQA" %}
 
 ## Steg 1 - förberedelser - webbrot
 
