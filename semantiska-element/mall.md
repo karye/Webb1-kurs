@@ -6,7 +6,7 @@ description: En webbplats med bakgrundsvideo och sticky meny
 
 ## Resultat
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 ## Genomgång
 
@@ -14,8 +14,8 @@ description: En webbplats med bakgrundsvideo och sticky meny
 
 ## Steg 1 - förberedelser - webbrot
 
-* Skapa en mapp som heter **bildgalleri**
-* Skapa en webbsida som heter **galleri.html**
+* Skapa en mapp som heter **space-tourism**
+* Skapa en webbsida som heter **index.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
 

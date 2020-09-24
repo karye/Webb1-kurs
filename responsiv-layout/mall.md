@@ -6,6 +6,12 @@ description: Hur gör man så webbsidan anpassar sig till skärmens storlek.
 
 ## Resultat
 
+![](../.gitbook/assets/image%20%2872%29.png)
+
+![](../.gitbook/assets/image%20%2870%29.png)
+
+![](../.gitbook/assets/image%20%2868%29.png)
+
 ## Genomgång
 
 {% embed url="https://youtu.be/z74jA5wgE\_M" %}

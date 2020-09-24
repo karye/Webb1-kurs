@@ -6,7 +6,7 @@ description: Med CSS grid är det mycket lätt att skapa kolumner och rutor.
 
 ## Resultat
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 ## Genomgång
 
@@ -14,8 +14,8 @@ description: Med CSS grid är det mycket lätt att skapa kolumner och rutor.
 
 ## Steg 1 - förberedelser - webbrot
 
-* Skapa en mapp som heter **bildgalleri**
-* Skapa en webbsida som heter **galleri.html**
+* Skapa en mapp som heter **burger-king**
+* Skapa en webbsida som heter **meny.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
 
