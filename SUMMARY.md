@@ -42,7 +42,7 @@
 
 ## Semantiska element
 
-* [Skapa proffs webbplats](semantiska-element/mall.md)
+* [Skapa proffsig webbplats](semantiska-element/mall.md)
 
 ## Responsiv layout
 
