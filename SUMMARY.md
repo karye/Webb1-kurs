@@ -30,11 +30,11 @@
 
 ## Webbplats med meny
 
-* [Untitled](webbplats-med-meny/untitled.md)
+* [Untitled](webbplats-med-meny/mall.md)
 
 ## Layout med CSS grid
 
-* [Untitled](layout-med-css-grid/untitled.md)
+* [Untitled](layout-med-css-grid/mall.md)
 
 ## Formulär
 
