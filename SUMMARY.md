@@ -44,6 +44,6 @@
 
 * [Untitled](semantiska-element/mall.md)
 
-## Reponsiv layout
+## Responsiv layout
 
 * [Untitled](responsiv-layout/mall.md)
