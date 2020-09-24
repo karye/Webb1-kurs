@@ -6,6 +6,8 @@ description: Bygg en webbplats med meny
 
 ## Resultat
 
+![](../.gitbook/assets/image%20%2868%29.png)
+
 ## Genomgång
 
 {% embed url="https://youtu.be/fXbxt09eHj8" caption="Hur man använder float och clear" %}
