@@ -2,7 +2,7 @@
 description: 'Träna på HTML tabell, och styla med CSS'
 ---
 
-# Skapa veckomeny
+# Din veckomeny
 
 ## Resultatet
 

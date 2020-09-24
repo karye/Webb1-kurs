@@ -2,7 +2,7 @@
 description: Hur man enkelt skapar flera sidor med samma grundsstilar.
 ---
 
-# Skapa länkade sidor
+# Länkade sidor
 
 ## Resultat
 

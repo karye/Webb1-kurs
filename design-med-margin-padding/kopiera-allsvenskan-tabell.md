@@ -2,7 +2,7 @@
 description: 'Bygga en tabell lika snygg som på https://www.allsvenskan.se/tabell'
 ---
 
-# Kopiera Allsvenskan tabellen
+# Återskapa Allsvenskan tabellen
 
 ## Resultat
 

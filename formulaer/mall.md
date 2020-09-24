@@ -2,11 +2,11 @@
 description: Hur man bygger ett formulär med alla dess delar.
 ---
 
-# Skapa formulär
+# Skapa kontaktformulär
 
 ## Resultat
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 ## Genomgång
 

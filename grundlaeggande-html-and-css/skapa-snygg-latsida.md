@@ -2,7 +2,7 @@
 description: Träna på formatering och styla med CSS
 ---
 
-# Uppgift - skapa en snygg låtsida
+# Uppgift - snygg låtsida
 
 ## **Resultat**
 

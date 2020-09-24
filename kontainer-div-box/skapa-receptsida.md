@@ -2,7 +2,7 @@
 description: Använda <div> för att skapa en snygg ruta
 ---
 
-# Skapa receptsida
+# Scones receptsida
 
 ## Resultat
 

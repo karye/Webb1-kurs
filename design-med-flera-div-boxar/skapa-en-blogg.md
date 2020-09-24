@@ -2,7 +2,7 @@
 description: Använda klasser för att styla olika
 ---
 
-# Skapa en blogg
+# Min blogg
 
 ## Resultat
 

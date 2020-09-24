@@ -2,7 +2,7 @@
 description: Träna redigering i editorn och grundläggande HTML-taggar
 ---
 
-# Skapa sida om Pippi Långstrump
+# Pippi Långstrump
 
 ## Resultatet
 

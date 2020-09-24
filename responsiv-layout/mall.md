@@ -2,13 +2,13 @@
 description: Hur gör man så webbsidan anpassar sig till skärmens storlek.
 ---
 
-# Skapa responsiv layout
+# Responsiv layout
 
 ## Resultat
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 ![](../.gitbook/assets/image%20%2868%29.png)
 
