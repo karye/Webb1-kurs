@@ -1,5 +1,5 @@
 ---
-description: Bygg en webbplats med meny
+description: Hur man bygg en hel webbplats med meny.
 ---
 
 # Skapa webbplats

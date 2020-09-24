@@ -1,10 +1,14 @@
-# Untitled
+---
+description: Hur gör man så webbsidan anpassar sig till skärmens storlek.
+---
+
+# Skapa responsiv layout
 
 ## Resultat
 
 ## Genomgång
 
-{% embed url="https://youtu.be/fXbxt09eHj8" caption="Hur man använder float och clear" %}
+{% embed url="https://youtu.be/z74jA5wgE\_M" %}
 
 ## Steg 1 - förberedelser - webbrot
 
