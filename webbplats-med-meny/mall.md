@@ -10,12 +10,12 @@ description: Bygg en webbplats med meny
 
 ## Genomgång
 
-{% embed url="https://youtu.be/fXbxt09eHj8" caption="Hur man använder float och clear" %}
+{% embed url="https://youtu.be/ZeMMvgCR7aU" %}
 
 ## Steg 1 - förberedelser - webbrot
 
-* Skapa en mapp som heter **bildgalleri**
-* Skapa en webbsida som heter **galleri.html**
+* Skapa en mapp som heter **webbplats-meny**
+* Skapa en webbsida som heter **sida1.html**
 * Skapa en CSS-fil som heter **style.css**
 * Skapa en mapp **bilder**
 
@@ -32,7 +32,7 @@ description: Bygg en webbplats med meny
 
 * Infoga först CSS-reset
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
-* 
+
 ### Välj typsnitt
 
 * Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt

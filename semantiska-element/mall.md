@@ -1,10 +1,10 @@
-# Untitled
+# Skapa proffs webbplats
 
 ## Resultat
 
-## Genomgång
+![](../.gitbook/assets/image%20%2870%29.png)
 
-{% embed url="https://youtu.be/fXbxt09eHj8" caption="Hur man använder float och clear" %}
+## Genomgång
 
 ## Steg 1 - förberedelser - webbrot
 

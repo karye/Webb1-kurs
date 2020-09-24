@@ -1,16 +1,18 @@
-# Untitled
+# Skapa formulär
 
 ## Resultat
 
+![](../.gitbook/assets/image%20%2869%29.png)
+
 ## Genomgång
 
-{% embed url="https://youtu.be/fXbxt09eHj8" caption="Hur man använder float och clear" %}
+{% embed url="https://youtu.be/UoSh5xoz6fg" %}
 
 ## Steg 1 - förberedelser - webbrot
 
-* Skapa en mapp som heter **bildgalleri**
-* Skapa en webbsida som heter **galleri.html**
-* Skapa en CSS-fil som heter **style.css**
+* Skapa en mapp som heter **formular**
+* Skapa en webbsida som heter **kontakt.html**
+* Skapa en CSS-fil som heter **kontakt.css**
 * Skapa en mapp **bilder**
 
 ## Steg 2 - skapa HTML-sidan <a id="steg-2-skapa-html-sida"></a>

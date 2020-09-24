@@ -34,7 +34,7 @@
 
 ## Formulär
 
-* [Untitled](formulaer/mall.md)
+* [Skapa formulär](formulaer/mall.md)
 
 ## Layout med CSS grid
 
@@ -42,7 +42,7 @@
 
 ## Semantiska element
 
-* [Untitled](semantiska-element/mall.md)
+* [Skapa proffs webbplats](semantiska-element/mall.md)
 
 ## Responsiv layout
 
