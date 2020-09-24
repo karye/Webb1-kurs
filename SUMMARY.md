@@ -32,11 +32,18 @@
 
 * [Untitled](webbplats-med-meny/mall.md)
 
-## Layout med CSS grid
-
-* [Untitled](layout-med-css-grid/mall.md)
-
 ## Formulär
 
 * [Untitled](formulaer/mall.md)
 
+## Layout med CSS grid
+
+* [Untitled](layout-med-css-grid/mall.md)
+
+## Semantiska element
+
+* [Untitled](semantiska-element/mall.md)
+
+## Reponsiv layout
+
+* [Untitled](responsiv-layout/mall.md)
