@@ -30,16 +30,16 @@
 
 ## Webbplats med meny
 
-* [Skapa webbplats](webbplats-med-meny/mall.md)
+* [Webbplatsen 5 artister](webbplats-med-meny/mall.md)
 
 ## Formulär
 
-* [Skapa kontaktformulär](formulaer/mall.md)
+* [Kontaktformulär](formulaer/mall.md)
 * [Återskapa Ekolådan formulär](formulaer/aterskapa-ekoladan-formulaer.md)
 
 ## Layout med CSS grid
 
-* [Skapa burger meny](layout-med-css-grid/mall.md)
+* [Burger meny](layout-med-css-grid/mall.md)
 * [Zeta produktsida](layout-med-css-grid/zeta-produktsida.md)
 
 ## Semantiska element

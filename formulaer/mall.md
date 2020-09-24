@@ -2,7 +2,7 @@
 description: Hur man bygger ett formulär med alla dess delar.
 ---
 
-# Skapa kontaktformulär
+# Kontaktformulär
 
 ## Resultat
 
