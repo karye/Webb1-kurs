@@ -28,9 +28,9 @@
 * [Skapa en blogg](bygga-med-flera-div-boxar/skapa-en-blogg.md)
 * [Skapa bildgalleri](bygga-med-flera-div-boxar/bildgalleri.md)
 
-## Webbplats med meny <a id="hel-webbplats-med-meny"></a>
+## Webbplats med meny
 
-* [Untitled](hel-webbplats-med-meny/untitled.md)
+* [Untitled](webbplats-med-meny/untitled.md)
 
 ## Layout med CSS grid
 
