@@ -2,7 +2,7 @@
 
 * [Introduktion](README.md)
 
-## Grundläggande HTML & CSS <a id="grunder"></a>
+## Grundläggande HTML & CSS
 
 * [Skapa sida om Pippi Långstrump](grunder/skapa-webbsidan-om-pippi-langstrump.md)
 * [Skapa sida "All You Need is Love" av Beatles](grunder/skapa-sida-all-you-need-is-love-av-beatles.md)
@@ -11,7 +11,7 @@
 * [Uppgift - skapa en snygg låtsida](grunder/skapa-snygg-latsida.md)
 * [Finn alla fel](grunder/finn-alla-fel.md)
 
-## Design med margin/padding <a id="margin-and-padding"></a>
+## Design med margin/padding
 
 * [Arbetsgång i webb](margin-and-padding/arbetsgang-i-webb.md)
 * [Skapa reklamsida](margin-and-padding/skapa-reklamsida.md)
@@ -23,16 +23,20 @@
 * [Skapa receptsida](kontainer-div-box/skapa-receptsida.md)
 * [Skapa länkade sidor](kontainer-div-box/skapa-floede-av-sidor.md)
 
-## Design med flera div-boxar <a id="bygga-med-flera-div-boxar"></a>
+## Design med flera div-boxar
 
 * [Skapa en blogg](bygga-med-flera-div-boxar/skapa-en-blogg.md)
 * [Skapa bildgalleri](bygga-med-flera-div-boxar/bildgalleri.md)
 
-## Webbplats med meny <a id="hel-webbplats-med-meny"></a>
+## Webbplats med meny
 
-* [Untitled](hel-webbplats-med-meny/untitled.md)
+* [Untitled](webbplats-med-meny/untitled.md)
 
 ## Layout med CSS grid
 
+* [Untitled](layout-med-css-grid/untitled.md)
+
 ## Formulär
+
+* [Untitled](formulaer/untitled.md)
 
