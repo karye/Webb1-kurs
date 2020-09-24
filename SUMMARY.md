@@ -4,18 +4,18 @@
 
 ## Grundläggande HTML & CSS
 
-* [Skapa sida om Pippi Långstrump](grunder/skapa-webbsidan-om-pippi-langstrump.md)
-* [Skapa sida "All You Need is Love" av Beatles](grunder/skapa-sida-all-you-need-is-love-av-beatles.md)
-* [Skapa webbposter för en film](grunder/skapa-webbposter-foer-en-film.md)
-* [Skapa veckomeny](grunder/skapa-veckomeny.md)
-* [Uppgift - skapa en snygg låtsida](grunder/skapa-snygg-latsida.md)
-* [Finn alla fel](grunder/finn-alla-fel.md)
+* [Skapa sida om Pippi Långstrump](grundlaeggande-html-and-css/skapa-webbsidan-om-pippi-langstrump.md)
+* [Skapa sida "All You Need is Love" av Beatles](grundlaeggande-html-and-css/skapa-sida-all-you-need-is-love-av-beatles.md)
+* [Skapa webbposter för en film](grundlaeggande-html-and-css/skapa-webbposter-foer-en-film.md)
+* [Skapa veckomeny](grundlaeggande-html-and-css/skapa-veckomeny.md)
+* [Uppgift - skapa en snygg låtsida](grundlaeggande-html-and-css/skapa-snygg-latsida.md)
+* [Finn alla fel](grundlaeggande-html-and-css/finn-alla-fel.md)
 
 ## Design med margin/padding
 
-* [Arbetsgång i webb](margin-and-padding/arbetsgang-i-webb.md)
-* [Skapa reklamsida](margin-and-padding/skapa-reklamsida.md)
-* [Kopiera Allsvenskan tabellen](margin-and-padding/kopiera-allsvenskan-tabell.md)
+* [Arbetsgång i webb](design-med-margin-padding/arbetsgang-i-webb.md)
+* [Skapa reklamsida](design-med-margin-padding/skapa-reklamsida.md)
+* [Kopiera Allsvenskan tabellen](design-med-margin-padding/kopiera-allsvenskan-tabell.md)
 
 ## Kontainer div-box
 
@@ -25,16 +25,14 @@
 
 ## Design med flera div-boxar
 
-* [Skapa en blogg](bygga-med-flera-div-boxar/skapa-en-blogg.md)
-* [Skapa bildgalleri](bygga-med-flera-div-boxar/bildgalleri.md)
+* [Skapa en blogg](design-med-flera-div-boxar/skapa-en-blogg.md)
+* [Skapa bildgalleri](design-med-flera-div-boxar/bildgalleri.md)
 
 ## Webbplats med meny
 
 * [Untitled](webbplats-med-meny/untitled.md)
 
 ## Layout med CSS grid
-
-* [Untitled](layout-med-css-grid/untitled.md)
 
 ## Formulär
 
