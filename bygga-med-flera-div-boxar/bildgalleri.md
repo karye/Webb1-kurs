@@ -2,7 +2,7 @@
 description: Text på sidan om bilden med CSS float
 ---
 
-# Bildgalleri
+# Skapa bildgalleri
 
 ## Resultat
 

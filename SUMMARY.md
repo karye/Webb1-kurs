@@ -26,7 +26,7 @@
 ## Design med flera div-boxar <a id="bygga-med-flera-div-boxar"></a>
 
 * [Skapa en blogg](bygga-med-flera-div-boxar/skapa-en-blogg.md)
-* [Bildgalleri](bygga-med-flera-div-boxar/bildgalleri.md)
+* [Skapa bildgalleri](bygga-med-flera-div-boxar/bildgalleri.md)
 
 ## Webbplats med meny <a id="hel-webbplats-med-meny"></a>
 
