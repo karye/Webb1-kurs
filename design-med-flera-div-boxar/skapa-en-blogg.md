@@ -40,5 +40,14 @@ description: Använda klasser för att styla olika
 
 * Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt
 
+### Ställ in width, margin och padding
+
+* Width på kontainer till ca 800px
+* Centrera kontainer-boxen på webbsidan
+
+### Färger
+
+* Välj färgpalett på [coolors.co](https://coolors.co/palettes/trending)
+
 ![](../.gitbook/assets/image%20%2866%29.png)
 
