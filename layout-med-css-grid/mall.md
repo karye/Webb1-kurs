@@ -25,6 +25,7 @@ description: Med CSS grid är det mycket lätt att skapa kolumner och rutor.
 
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan
+* sdjfn 
 
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
@@ -34,4 +35,10 @@ description: Med CSS grid är det mycket lätt att skapa kolumner och rutor.
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
 * **Välj typsnitt**
 * Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt
+
+## Ny rubrik
+
+```text
+
+```
 
