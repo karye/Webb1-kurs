@@ -44,6 +44,7 @@ description: Använda klasser för att styla olika
 
 * Width på kontainer till ca 800px
 * Centrera kontainer-boxen på webbsidan
+* Ställ in padding på kontainer-boxen och inlägg-boxarna
 
 ### Färger
 
