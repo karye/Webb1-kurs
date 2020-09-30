@@ -24,6 +24,7 @@ description: Text på sidan om bilden med CSS float
 ### Grundkoden
 
 * Börja med grundkoden
+* Välj 5 foton från [unsplash](https://unsplash.com/)
 * Fyll i alla HTML-element som bygger upp sidan
 
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
