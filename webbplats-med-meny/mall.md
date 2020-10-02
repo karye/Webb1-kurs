@@ -28,14 +28,20 @@ description: Hur man bygg en hel webbplats med meny.
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan
 
-## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
+![](../.gitbook/assets/image%20%2877%29.png)
+
+## **Steg 3 - styla till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
 ### CSS-reglerna <a id="css-reglerna"></a>
 
 * Infoga först CSS-reset
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
-
-### Välj typsnitt
-
 * Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt
+* Välj färgpalett på [coolors.co](https://coolors.co/)
+
+![](../.gitbook/assets/image%20%2878%29.png)
+
+### Styla menyn
+
+![](../.gitbook/assets/image%20%2879%29.png)
 
