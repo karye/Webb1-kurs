@@ -10,7 +10,9 @@ description: Hur man bygg en hel webbplats med meny.
 
 ## Genomgång
 
-{% embed url="https://youtu.be/ZeMMvgCR7aU" %}
+{% embed url="https://youtu.be/ZeMMvgCR7aU" caption="Hur skapar man en vanlig meny" %}
+
+{% embed url="https://youtu.be/QMUyscA0mYI" caption="Vad är specificitet?" %}
 
 ## Steg 1 - förberedelser - webbrot
 
