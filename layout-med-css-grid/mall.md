@@ -1,5 +1,5 @@
 ---
-description: Med CSS grid är det mycket lätt att skapa kolumner och rutor.
+description: Med CSS grid är det mycket lätt att skapa kolumner.
 ---
 
 # Burger meny
