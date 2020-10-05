@@ -1,5 +1,5 @@
 ---
-description: Hur man bygg en hel webbplats med meny.
+description: Hur man bygg en hel webbplats med meny
 ---
 
 # Webbplatsen 5 artister
