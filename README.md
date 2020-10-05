@@ -23,5 +23,6 @@ description: 'Installera alla verktyg, konfigurera alla inställningar, skapar a
 
 ## Bra webbsidor för att fördjupa dig i webbutveckling
 
-* [https://learn-the-web.algonquindesign.ca/courses/web-design-1/](https://learn-the-web.algonquindesign.ca/courses/web-design-1/)
+* [http://pragmatisk.se](http://pragmatisk.se/)
+* [https://learn-the-web.algonquindesign.ca/courses/web-design-1](https://learn-the-web.algonquindesign.ca/courses/web-design-1/)
 
