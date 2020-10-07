@@ -30,7 +30,7 @@
 
 ## Webbplats med meny
 
-* [Webbplatsen 5 artister](webbplats-med-meny/mall.md)
+* [Webbplatsen 5 artister](webbplats-med-meny/meny.md)
 
 ## Formulär
 
