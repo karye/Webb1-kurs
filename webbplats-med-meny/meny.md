@@ -56,6 +56,7 @@ description: Hur man bygg en hel webbplats med meny
 * Styla bakgrundsfärgern på knapparna
 * Styla text i knapparna
 * Styla "hover" färgen på knapparna
+* Ställ in sidan som är aktiv
 
 ![](../.gitbook/assets/image%20%2880%29.png)
 
