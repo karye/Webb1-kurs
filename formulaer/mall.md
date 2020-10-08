@@ -25,6 +25,7 @@ description: Hur man bygger ett formulär med alla dess delar.
 
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan
+* Så här ett formulär ut: [https://devdocs.io/html/element/form](https://devdocs.io/html/element/form)
 
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
