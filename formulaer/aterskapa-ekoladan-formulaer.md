@@ -46,5 +46,5 @@ description: Träna på att skapa en webbsida lik som i verkligheten.
 
 * Infoga först CSS-reset
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
-* Välj Courrier som typsnitt
+* Välj **Courrier** som typsnitt
 
