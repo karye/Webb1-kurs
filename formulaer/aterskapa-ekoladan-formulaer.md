@@ -45,7 +45,3 @@
 * **Välj typsnitt**
 * Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt
 
-
-
-![](../.gitbook/assets/bg.jpg)
-
