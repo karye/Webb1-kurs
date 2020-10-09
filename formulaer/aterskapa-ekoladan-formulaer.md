@@ -46,6 +46,5 @@ description: Träna på att skapa en webbsida lik som i verkligheten.
 
 * Infoga först CSS-reset
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
-* **Välj typsnitt**
-* Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt
+* Välj Courrier som typsnitt
 
