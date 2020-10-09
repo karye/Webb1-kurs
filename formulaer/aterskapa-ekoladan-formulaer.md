@@ -17,18 +17,9 @@
 * Fyll i alla HTML-element som bygger upp sidan
 * Så här ett formulär ut: [https://devdocs.io/html/element/form](https://devdocs.io/html/element/form)
 
-## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
+### Material
 
-### CSS-reglerna <a id="css-reglerna"></a>
-
-* Infoga först CSS-reset
-* Infoga alla CSS-regler som motsvarar de taggar vi använder
-* **Välj typsnitt**
-* Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt
-
-## Material
-
-### Texter på sidan
+* Texter på sidan
 
 > Du når oss på telefon 08-554 810 80. Våra telefontider är måndag-fredag mellan klockan 10 och 12 och på tisdagar även mellan 13 och 15. Vid andra tider är det säkraste sättet att komma i kontakt med oss att skicka ett meddelande till info@ekoladan.se eller genom att använda formuläret nedan.
 
@@ -41,7 +32,20 @@
 > **Besöksadress:**  
 > Tuna industriväg 17
 
-### Bakgrundsbilden
+* Bakgrundsbilden
+
+![bg.jpg](../.gitbook/assets/bg.jpg)
+
+## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
+
+### CSS-reglerna <a id="css-reglerna"></a>
+
+* Infoga först CSS-reset
+* Infoga alla CSS-regler som motsvarar de taggar vi använder
+* **Välj typsnitt**
+* Gå till [Google Fonts](https://fonts.google.com) och välj två typsnitt
+
+
 
 ![](../.gitbook/assets/bg.jpg)
 
