@@ -44,6 +44,8 @@ description: Hur man bygger ett formulär med alla dess delar.
 
 * Prova styla enligt CSS nedan
 
+{% tabs %}
+{% tab title="HTML" %}
 ```markup
 <div>
   <label>
@@ -75,7 +77,9 @@ description: Hur man bygger ett formulär med alla dess delar.
   </label>
 </div>
 ```
+{% endtab %}
 
+{% tab title="CSS" %}
 ```css
 @keyframes click-wave {
   0% {
@@ -148,6 +152,7 @@ body label {
   display: block;
   line-height: 40px;
 }
-
 ```
+{% endtab %}
+{% endtabs %}
 
