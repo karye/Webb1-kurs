@@ -4,7 +4,7 @@ description: Träna på att skapa en webbsida lik som i verkligheten.
 
 # Uppgift - återskapa Ekolådan
 
-![](../.gitbook/assets/dump-ekoladan.png)
+![Sk&#xE4;rmdump p&#xE5; kontakformul&#xE4;ret](../.gitbook/assets/dump-ekoladan.png)
 
 ## Steg 1 - förberedelser - webbrot
 
