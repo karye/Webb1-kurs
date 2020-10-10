@@ -39,14 +39,14 @@
 
 ## Layout med CSS grid
 
-* [Burger meny](layout-med-css-grid/mall.md)
-* [Zeta produktsida](layout-med-css-grid/zeta-produktsida.md)
+* [Uppgift - Burger meny](layout-med-css-grid/burger.md)
+* [Uppgift - Zeta produktsida](layout-med-css-grid/zeta-produktsida.md)
 
 ## Semantiska element
 
-* [Space Tourism](semantiska-element/mall.md)
+* [Space Tourism](semantiska-element/space.md)
 
 ## Responsiv layout
 
-* [Responsiv layout](responsiv-layout/mall.md)
+* [Responsiv layout](responsiv-layout/responsiv.md)
 
