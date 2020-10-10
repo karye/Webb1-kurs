@@ -4,7 +4,7 @@ description: Med CSS grid är det mycket lätt att skapa rutor.
 
 # Uppgift - Zeta produktsida
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![&#xC5;terskapad med CSS grid](../.gitbook/assets/image%20%2873%29.png)
 
 ## Steg 1 - förberedelser - webbrot <a id="steg-1-foerberedelser-webbrot"></a>
 

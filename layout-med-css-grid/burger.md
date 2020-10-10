@@ -6,7 +6,7 @@ description: Med CSS grid är det mycket lätt att skapa kolumner.
 
 ## Resultat
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![&#xC5;terskapad med css grid](../.gitbook/assets/image%20%2875%29.png)
 
 ## Genomgång
 
