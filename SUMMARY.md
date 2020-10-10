@@ -35,7 +35,7 @@
 ## Formulär
 
 * [Kontaktformulär](formulaer/formular.md)
-* [Uppgift - återskapa Ekolådan](formulaer/aterskapa-ekoladan-formulaer.md)
+* [Uppgift - Ekolådan](formulaer/aterskapa-ekoladan-formulaer.md)
 
 ## Layout med CSS grid
 
