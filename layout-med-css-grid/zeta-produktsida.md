@@ -19,7 +19,7 @@ description: Med CSS grid är det mycket lätt att skapa rutor.
 
 * Börja med grundkoden
 * Fyll i alla HTML-element som bygger upp sidan
-* Länk till webbsidan: [https://www.zeta.nu/produkter](https://www.zeta.nu/produkter/)
+* Hämta material från [https://www.zeta.nu/produkter](https://www.zeta.nu/produkter/)
 
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
