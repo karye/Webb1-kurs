@@ -21,24 +21,9 @@ description: Träna på att skapa en webbsida lik som i verkligheten.
 * Fyll i alla HTML-element som bygger upp sidan
 * Så här ett formulär ut: [https://devdocs.io/html/element/form](https://devdocs.io/html/element/form)
 
-### Material
-
-* Texter på sidan
+### Text på sidan
 
 > Du når oss på telefon 08-554 810 80. Våra telefontider är måndag-fredag mellan klockan 10 och 12 och på tisdagar även mellan 13 och 15. Vid andra tider är det säkraste sättet att komma i kontakt med oss att skicka ett meddelande till info@ekoladan.se eller genom att använda formuläret nedan.
-
-> **Postadress:**  
-> Stiftelsen Biodynamiska Produkter  
-> Att: Ekolådan  
-> Box 42  
-> 153 21 Järna  
->   
-> **Besöksadress:**  
-> Tuna industriväg 17
-
-* Bakgrundsbilden
-
-![bg.jpg](../.gitbook/assets/bg.jpg)
 
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
@@ -47,4 +32,8 @@ description: Träna på att skapa en webbsida lik som i verkligheten.
 * Infoga först CSS-reset
 * Infoga alla CSS-regler som motsvarar de taggar vi använder
 * Välj **Courrier** som typsnitt
+
+### Bakgrundsbilden
+
+![bg.jpg](../.gitbook/assets/bg.jpg)
 
