@@ -12,6 +12,8 @@ description: Med CSS grid är det mycket lätt att skapa kolumner.
 
 {% embed url="https://youtu.be/FyIy\_asBTQA" %}
 
+* Spel för att bli expert på CSS grid: [https://cssgridgarden.com/\#sv](https://cssgridgarden.com/#sv)
+
 ## Steg 1 - förberedelser - webbrot
 
 * Skapa en mapp som heter **burger-king**
