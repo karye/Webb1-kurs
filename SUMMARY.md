@@ -39,7 +39,7 @@
 
 ## Layout med CSS grid
 
-* [Kopiera Burger meny](layout-med-css-grid/burger.md)
+* [Big Burger meny](layout-med-css-grid/burger.md)
 * [Uppgift - Zeta produktsida](layout-med-css-grid/zeta-produktsida.md)
 
 ## Semantiska element

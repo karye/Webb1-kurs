@@ -2,7 +2,7 @@
 description: Med CSS grid är det mycket lätt att skapa kolumner.
 ---
 
-# Kopiera Burger meny
+# Big Burger meny
 
 ## Resultat
 
