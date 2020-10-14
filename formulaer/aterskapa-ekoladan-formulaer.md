@@ -6,6 +6,12 @@ description: Träna på att skapa en webbsida lik som i verkligheten.
 
 ![Sk&#xE4;rmdump p&#xE5; kontakformul&#xE4;ret](../.gitbook/assets/dump-ekoladan.png)
 
+## **Syfte**
+
+* Träna på att formulärs grundläggande delar
+* Träna på styla formulär
+* Träna på CSS grid
+
 ## Steg 1 - förberedelser - webbrot
 
 * Skapa en mapp som heter **ekoladan**
