@@ -29,6 +29,8 @@ description: Med CSS grid är det mycket lätt att skapa kolumner.
 * Fyll i alla HTML-element som bygger upp sidan
 * Hämta material från [https://www.burgerking.se/menu](https://www.burgerking.se/menu)
 
+![](../.gitbook/assets/dump-burger-1.png)
+
 ## **Steg 3 - snygga till sidan med CSS** <a id="steg-3-snygga-till-sidan-med-css"></a>
 
 ### CSS-reglerna <a id="css-reglerna"></a>
