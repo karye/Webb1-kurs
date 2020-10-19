@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduktion](README.md)
+* [Webb snippets](webb-snippets.md)
 
 ## Grundläggande HTML & CSS
 
