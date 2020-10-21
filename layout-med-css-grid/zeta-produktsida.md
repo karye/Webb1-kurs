@@ -1,5 +1,5 @@
 ---
-description: Med CSS grid är det mycket lätt att skapa rutor.
+description: Med CSS grid är det lätt att skapa rutor.
 ---
 
 # Uppgift - Zeta produktsida
