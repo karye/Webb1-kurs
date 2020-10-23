@@ -53,5 +53,9 @@
 
 ## Projekt
 
-* [Höstprojekt - Halloween](projekt/hoestprojekt-halloween.md)
+* [Höstprojekt - Halloween](projekt/hoestprojekt-halloween/README.md)
+  * [Hampus Åberg](projekt/hoestprojekt-halloween/hampus-aberg.md)
+  * [Carl Edenflod](projekt/hoestprojekt-halloween/carl-edenflod.md)
+  * [Olle Falk](projekt/hoestprojekt-halloween/olle-falk.md)
+  * [Gustav Walter](projekt/hoestprojekt-halloween/gustav-walter.md)
 
