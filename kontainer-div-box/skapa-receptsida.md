@@ -50,7 +50,7 @@ description: Använda <div> för att skapa en snygg ruta
 
 * Välj ut ett foto på [unsplash.com](https://unsplash.com/)
 * Ladda ned fotot i mappen **bilder**
-* Anpassa fotot storlek till ca 2000px bredd
+* Anpassa fotot storlek till ca 2000px bredd i [https://pixlr.com/se/x/](https://pixlr.com/se/x/)
 * Använd **background-image** på **body**-elementet
 * Använd **margin** på elementen
 
