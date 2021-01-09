@@ -25,4 +25,5 @@ description: 'Installera alla verktyg, konfigurera alla inställningar, skapar a
 
 * [http://pragmatisk.se](http://pragmatisk.se/)
 * [https://learn-the-web.algonquindesign.ca/courses/web-design-1](https://learn-the-web.algonquindesign.ca/courses/web-design-1/)
+* [https://pixlr.com/se/x/](https://pixlr.com/se/x/)
 
