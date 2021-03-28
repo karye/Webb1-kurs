@@ -2,6 +2,7 @@
 
 * [Introduktion](README.md)
 * [Webb snippets](webb-snippets.md)
+* [Träning på egen hand](traening-pa-egen-hand.md)
 
 ## Grundläggande HTML & CSS
 
