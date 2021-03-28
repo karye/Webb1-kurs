@@ -6,6 +6,8 @@ Följande sidor och tutorials börjar med grunden i webbutveckling
 
 ### **Tutorial på svenska: webbkoda.se**
 
+Följ instruktionerna och koda i VS code
+
 * [https://webbkoda.se/starta-webbprojekt/](https://webbkoda.se/starta-webbprojekt/)
 * [https://webbkoda.se/evas-frukt/](https://webbkoda.se/evas-frukt/)
 * [https://webbkoda.se/hit-och-dit-resor/](https://webbkoda.se/hit-och-dit-resor/)
