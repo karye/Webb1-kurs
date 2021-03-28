@@ -1,4 +1,4 @@
-# Träning på egen hand
+# Träna på egen hand
 
 ## Träna webbutveckling
 
