@@ -14,7 +14,7 @@ Följande sidor och tutorials börjar med grunden i webbutveckling
 
 * [https://www.youtube.com/watch?v=N3payTf7vo0&list=PLNadygDF\_9TFzjxwMFZO\_qdCaWp6LTeqy](https://www.youtube.com/watch?v=N3payTf7vo0&list=PLNadygDF_9TFzjxwMFZO_qdCaWp6LTeqy)
 
-### På engelska
+### Tutorial på engelska
 
 {% embed url="https://youtu.be/DPnqb74Smug" %}
 
