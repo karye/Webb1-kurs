@@ -31,8 +31,6 @@ description: Här är lista på tutorials för träna på egen hand
 
 {% embed url="https://youtu.be/QA0XpGhiz5w" %}
 
-
-
 ## Fördjupning i webbutveckling
 
 ### HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!
