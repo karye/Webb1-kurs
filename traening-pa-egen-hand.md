@@ -30,6 +30,15 @@ description: Här är lista på tutorials för träna på egen hand
 
 {% embed url="https://youtu.be/DPnqb74Smug" %}
 
+### Tutorial på engelska: Frontend Developer Crash Course for Absolute Beginners
+
+* Följ instruktionerna och koda i VS Code 
+* Använd bilder från unsplash.com som tex [https://unsplash.com/photos/D-vDQMTfAAU](https://unsplash.com/photos/D-vDQMTfAAU)
+
+{% embed url="https://youtu.be/QA0XpGhiz5w" %}
+
+
+
 ## Fördjupning i webbutveckling
 
 ### HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!
