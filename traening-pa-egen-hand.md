@@ -14,11 +14,17 @@ Följ instruktionerna och koda i VS code
 
 ### Tutorial på svenska: skapa webbplats
 
-* [https://www.youtube.com/watch?v=N3payTf7vo0&list=PLNadygDF\_9TFzjxwMFZO\_qdCaWp6LTeqy](https://www.youtube.com/watch?v=N3payTf7vo0&list=PLNadygDF_9TFzjxwMFZO_qdCaWp6LTeqy)
+{% embed url="https://www.youtube.com/watch?v=N3payTf7vo0&list=PLNadygDF\_9TFzjxwMFZO\_qdCaWp6LTeqy" %}
 
 ### Tutorial på engelska: webben och HTML5 för nybörjare
 
 {% embed url="https://youtu.be/DPnqb74Smug" %}
+
+### HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!
+
+* Ladda ned [filerna](https://coursetro.s3.amazonaws.com/stuff/2021frontend.zip)
+
+{% embed url="https://www.youtube.com/watch?v=D-h8L5hgW-w" %}
 
 
 
