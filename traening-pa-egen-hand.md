@@ -18,12 +18,6 @@ description: Här är lista på tutorials för träna på egen hand
 
 {% file src=".gitbook/assets/hit-och-dit.zip" caption="Ladda ner filer till Hit och dit hemsida" %}
 
-### Tutorial på svenska - skapa webbplats
-
-* Följ instruktionerna och koda i VS Code 
-
-{% embed url="https://www.youtube.com/watch?v=N3payTf7vo0&list=PLNadygDF\_9TFzjxwMFZO\_qdCaWp6LTeqy" %}
-
 ### Tutorial på engelska: webben och HTML5 för nybörjare
 
 * Följ instruktionerna och koda i VS Code 
