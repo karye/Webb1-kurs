@@ -1,4 +1,4 @@
-# Tutorials
+# Youtube
 
 {% embed url="https://youtu.be/qTGbWfEEnKI" %}
 
