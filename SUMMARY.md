@@ -43,6 +43,7 @@
 
 * [Big Burger meny](layout-med-css-grid/burger.md)
 * [Uppgift - Zeta produktsida](layout-med-css-grid/zeta-produktsida.md)
+* [Tutorials](layout-med-css-grid/tutorials.md)
 
 ## Semantiska element
 
@@ -51,6 +52,7 @@
 ## Responsiv layout
 
 * [Responsiv layout](responsiv-layout/responsiv.md)
+* [Tutorials](responsiv-layout/tutorials.md)
 
 ## Projekt
 
