@@ -24,7 +24,7 @@ description: Här är lista på tutorials för träna på egen hand
 
 {% embed url="https://youtu.be/DPnqb74Smug" %}
 
-### Bygg en webbsida med grid
+### Bygg en responsiv webbsida med grid
 
 * Följ instruktionerna och koda i VS Code 
 
