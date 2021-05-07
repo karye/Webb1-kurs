@@ -14,7 +14,12 @@ description: Lista på små Javascript-effekter man kan infoga på sin webbsida
 
 ## Youtube-tutorial
 
+* Följ videon och koda själv
+* Ladda ned arbetsfilerna
+
+{% file src="../.gitbook/assets/javascript-basic-projects.zip" %}
+
 {% embed url="https://www.youtube.com/watch?v=3PHXvlpOkf4" %}
 
-
+ Course created by John Smilga. Check out his YouTube channel: [https://www.youtube.com/codingaddict](https://www.youtube.com/codingaddict)
 
