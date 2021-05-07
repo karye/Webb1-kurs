@@ -1,5 +1,5 @@
 ---
-description: Lista på små Javascript-effekter man kan infoga på sin webbsida
+description: Exempel på små Javascript-effekter man kan infoga på sin webbsida
 ---
 
 # Exempel på Javascript
