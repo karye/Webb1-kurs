@@ -24,6 +24,14 @@ description: Här är lista på tutorials för träna på egen hand
 
 {% embed url="https://youtu.be/DPnqb74Smug" %}
 
+### Bygg en webbsida med grid
+
+* Följ instruktionerna och koda i VS Code 
+
+{% embed url="https://youtu.be/moBhzSC455o" %}
+
+
+
 ### Tutorial på engelska: Frontend Developer Crash Course for Absolute Beginners
 
 * Följ instruktionerna och koda i VS Code 
