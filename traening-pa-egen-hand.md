@@ -22,20 +22,20 @@ description: Här är lista på tutorials för träna på egen hand
 
 * Följ instruktionerna och koda i VS Code 
 
-{% embed url="https://youtu.be/DPnqb74Smug" %}
+{% embed url="https://youtu.be/DPnqb74Smug" caption="" %}
 
 ### Bygg en responsiv webbsida med grid
 
 * Följ instruktionerna och koda i VS Code 
 
-{% embed url="https://youtu.be/moBhzSC455o" %}
+{% embed url="https://youtu.be/moBhzSC455o" caption="" %}
 
 ### Tutorial på engelska: Frontend Developer Crash Course for Absolute Beginners
 
 * Följ instruktionerna och koda i VS Code 
 * Använd bilder från unsplash.com som tex [https://unsplash.com/photos/D-vDQMTfAAU](https://unsplash.com/photos/D-vDQMTfAAU)
 
-{% embed url="https://youtu.be/QA0XpGhiz5w" %}
+{% embed url="https://youtu.be/QA0XpGhiz5w" caption="" %}
 
 ## Fördjupning i webbutveckling
 
@@ -45,7 +45,5 @@ description: Här är lista på tutorials för träna på egen hand
 
 {% file src=".gitbook/assets/2021frontend.zip" caption="Ladda ned filerna" %}
 
-{% embed url="https://www.youtube.com/watch?v=D-h8L5hgW-w" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=D-h8L5hgW-w" caption="" %}
 

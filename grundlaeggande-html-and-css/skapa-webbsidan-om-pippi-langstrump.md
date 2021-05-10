@@ -30,7 +30,7 @@ description: Träna redigering i editorn och grundläggande HTML-taggar
 * Skapa en fil inuti mappen som heter pippi.html
 * Skriv HTML5
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 * Klistra in texten i en nytt dokument som heter pippi.html
 
