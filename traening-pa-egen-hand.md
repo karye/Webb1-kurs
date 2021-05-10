@@ -30,8 +30,6 @@ description: Här är lista på tutorials för träna på egen hand
 
 {% embed url="https://youtu.be/moBhzSC455o" %}
 
-
-
 ### Tutorial på engelska: Frontend Developer Crash Course for Absolute Beginners
 
 * Följ instruktionerna och koda i VS Code 
@@ -45,7 +43,7 @@ description: Här är lista på tutorials för träna på egen hand
 
 * Följ instruktionerna och koda i VS Code 
 
-{% file src=".gitbook/assets/2021frontend.zip" caption="Ladda filerna" %}
+{% file src=".gitbook/assets/2021frontend.zip" caption="Ladda ned filerna" %}
 
 {% embed url="https://www.youtube.com/watch?v=D-h8L5hgW-w" %}
 
