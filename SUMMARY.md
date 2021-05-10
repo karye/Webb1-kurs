@@ -43,7 +43,7 @@
 
 * [Big Burger meny](layout-med-css-grid/burger.md)
 * [Uppgift - Zeta produktsida](layout-med-css-grid/zeta-produktsida.md)
-* [Youtube tutorial](layout-med-css-grid/tutorials.md)
+* [Youtube grid-tutorial](layout-med-css-grid/tutorials.md)
 
 ## Semantiska element
 
