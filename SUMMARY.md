@@ -54,7 +54,7 @@
 * [Responsiv layout](kapitel-9/responsiv.md)
 * [Youtube](kapitel-9/tutorials.md)
 
-## Höstprojekt <a id="kapitel-10"></a>
+## Projekt <a id="kapitel-10"></a>
 
 * [Höstprojekt - Halloween](kapitel-10/hoestprojekt-halloween/README.md)
   * [Hampus Åberg](kapitel-10/hoestprojekt-halloween/hampus-aberg.md)
