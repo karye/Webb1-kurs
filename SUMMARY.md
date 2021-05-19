@@ -61,6 +61,7 @@
   * [Carl Edenflod](kapitel-10/hoestprojekt-halloween/carl-edenflod.md)
   * [Olle Falk](kapitel-10/hoestprojekt-halloween/olle-falk.md)
   * [Gustav Walter](kapitel-10/hoestprojekt-halloween/gustav-walter.md)
+* [Slutprojekt](kapitel-10/slutprojekt.md)
 
 ## Javascript <a id="kapitel-11"></a>
 
