@@ -54,8 +54,6 @@
 * [Responsiv layout](kapitel-9/responsiv.md)
 * [Youtube](kapitel-9/tutorials.md)
 
-## Projekt <a id="kapitel-10"></a>
-
 ---
 
 * [Höstprojekt - Halloween](hoestprojekt-halloween/README.md)
