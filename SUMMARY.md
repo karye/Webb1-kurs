@@ -54,19 +54,16 @@
 * [Responsiv layout](kapitel-9/responsiv.md)
 * [Youtube](kapitel-9/tutorials.md)
 
----
+## Höstprojekt <a id="kapitel-10"></a>
 
-* [Höstprojekt - Halloween](hoestprojekt-halloween/README.md)
-  * [Hampus Åberg](hoestprojekt-halloween/hampus-aberg.md)
-  * [Carl Edenflod](hoestprojekt-halloween/carl-edenflod.md)
-  * [Olle Falk](hoestprojekt-halloween/olle-falk.md)
-  * [Gustav Walter](hoestprojekt-halloween/gustav-walter.md)
+* [Höstprojekt - Halloween](kapitel-10/hoestprojekt-halloween/README.md)
+  * [Hampus Åberg](kapitel-10/hoestprojekt-halloween/hampus-aberg.md)
+  * [Carl Edenflod](kapitel-10/hoestprojekt-halloween/carl-edenflod.md)
+  * [Olle Falk](kapitel-10/hoestprojekt-halloween/olle-falk.md)
+  * [Gustav Walter](kapitel-10/hoestprojekt-halloween/gustav-walter.md)
+* [Test](kapitel-10/untitled.md)
 
 ## Javascript <a id="kapitel-11"></a>
 
 * [Exempel på Javascript](kapitel-11/exempel-pa-javascript.md)
-
-## Höstprojekt <a id="kapitel-10"></a>
-
-* [Test](kapitel-10/untitled.md)
 
