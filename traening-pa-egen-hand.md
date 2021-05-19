@@ -27,6 +27,28 @@ description: Här är lista på tutorials för träna på egen hand
 ### Bygg en responsiv webbsida med grid
 
 * Följ instruktionerna och koda i VS Code 
+*  Välj egna bilder från [https://www.pexels.com/sv-se](https://www.pexels.com/sv-se)
+* Skriv din text på svenska
+* Välj egna färger
+* Så här använder du Fontawesome ikoner:
+
+```markup
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Snygga ikoner från font-awesome</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+</head>
+<body>
+    <h1>Snygga ikoner från font-awesome</h1>
+    <p>En klocka: <i class="fas fa-bell"></i></p>
+    <p>Ett moln: <i class="fas fa-cloud"></i></p>
+    <p>En graf: <i class="fas fa-chart-pie"></i></p>
+</body>
+</html>
+```
 
 {% embed url="https://youtu.be/moBhzSC455o" caption="" %}
 

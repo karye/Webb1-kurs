@@ -4,65 +4,65 @@
 * [Webb snippets](webb-snippets.md)
 * [Träna på egen hand](traening-pa-egen-hand.md)
 
-## Grundläggande HTML & CSS
+## Grundläggande HTML & CSS <a id="kapitel-1"></a>
 
-* [Pippi Långstrump](grundlaeggande-html-and-css/skapa-webbsidan-om-pippi-langstrump.md)
-* ["All You Need is Love" av Beatles](grundlaeggande-html-and-css/skapa-sida-all-you-need-is-love-av-beatles.md)
-* [Webbposter för en film](grundlaeggande-html-and-css/skapa-webbposter-foer-en-film.md)
-* [Din veckomeny](grundlaeggande-html-and-css/skapa-veckomeny.md)
-* [Uppgift - snygg låtsida](grundlaeggande-html-and-css/skapa-snygg-latsida.md)
-* [Finn alla fel](grundlaeggande-html-and-css/finn-alla-fel.md)
+* [Pippi Långstrump](kapitel-1/skapa-webbsidan-om-pippi-langstrump.md)
+* ["All You Need is Love" av Beatles](kapitel-1/skapa-sida-all-you-need-is-love-av-beatles.md)
+* [Webbposter för en film](kapitel-1/skapa-webbposter-foer-en-film.md)
+* [Din veckomeny](kapitel-1/skapa-veckomeny.md)
+* [Uppgift - snygg låtsida](kapitel-1/skapa-snygg-latsida.md)
+* [Finn alla fel](kapitel-1/finn-alla-fel.md)
 
-## Design med margin/padding
+## Design med margin/padding <a id="kapitel-2"></a>
 
-* [Arbetsgång i webb](design-med-margin-padding/arbetsgang-i-webb.md)
-* [Reklamsida Drömsemestern](design-med-margin-padding/skapa-reklamsida.md)
-* [Återskapa Allsvenskan tabellen](design-med-margin-padding/kopiera-allsvenskan-tabell.md)
+* [Arbetsgång i webb](kapitel-2/arbetsgang-i-webb.md)
+* [Reklamsida Drömsemestern](kapitel-2/skapa-reklamsida.md)
+* [Återskapa Allsvenskan tabellen](kapitel-2/kopiera-allsvenskan-tabell.md)
 
-## Kontainer div-box
+## Kontainer div-box <a id="kapitel-3"></a>
 
-* [Mitt visitkort](kontainer-div-box/skapa-visitkort.md)
-* [Scones receptsida](kontainer-div-box/skapa-receptsida.md)
-* [Länkade sidor](kontainer-div-box/skapa-floede-av-sidor.md)
+* [Mitt visitkort](kapitel-3/skapa-visitkort.md)
+* [Scones receptsida](kapitel-3/skapa-receptsida.md)
+* [Länkade sidor](kapitel-3/skapa-floede-av-sidor.md)
 
-## Design med flera div-boxar
+## Design med flera div-boxar <a id="kapitel-4"></a>
 
-* [Min blogg](design-med-flera-div-boxar/skapa-en-blogg.md)
-* [Snyggt bildgalleri](design-med-flera-div-boxar/bildgalleri.md)
+* [Min blogg](kapitel-4/skapa-en-blogg.md)
+* [Snyggt bildgalleri](kapitel-4/bildgalleri.md)
 
-## Webbplats med meny
+## Webbplats med meny <a id="kapitel-5"></a>
 
-* [Webbplatsen 5 artister](webbplats-med-meny/meny.md)
+* [Webbplatsen 5 artister](kapitel-5/meny.md)
 
-## Formulär
+## Formulär <a id="kapitel-6"></a>
 
-* [Kontaktformulär](formulaer/formular.md)
-* [Uppgift - Ekolådan](formulaer/aterskapa-ekoladan-formulaer.md)
+* [Kontaktformulär](kapitel-6/formular.md)
+* [Uppgift - Ekolådan](kapitel-6/aterskapa-ekoladan-formulaer.md)
 
-## Layout med CSS grid
+## Layout med CSS grid <a id="kapitel-7"></a>
 
-* [Big Burger meny](layout-med-css-grid/burger.md)
-* [Uppgift - Zeta produktsida](layout-med-css-grid/zeta-produktsida.md)
-* [Youtube grid-tutorial](layout-med-css-grid/tutorials.md)
+* [Big Burger meny](kapitel-7/burger.md)
+* [Uppgift - Zeta produktsida](kapitel-7/zeta-produktsida.md)
+* [Youtube grid-tutorial](kapitel-7/tutorials.md)
 
-## Semantiska element
+## Semantiska element <a id="kapitel-8"></a>
 
-* [Space Tourism](semantiska-element/space.md)
+* [Space Tourism](kapitel-8/space.md)
 
-## Responsiv layout
+## Responsiv layout <a id="kapitel-9"></a>
 
-* [Responsiv layout](responsiv-layout/responsiv.md)
-* [Youtube](responsiv-layout/tutorials.md)
+* [Responsiv layout](kapitel-9/responsiv.md)
+* [Youtube](kapitel-9/tutorials.md)
 
-## Projekt
+## Projekt <a id="kapitel-10"></a>
 
-* [Höstprojekt - Halloween](projekt/hoestprojekt-halloween/README.md)
-  * [Hampus Åberg](projekt/hoestprojekt-halloween/hampus-aberg.md)
-  * [Carl Edenflod](projekt/hoestprojekt-halloween/carl-edenflod.md)
-  * [Olle Falk](projekt/hoestprojekt-halloween/olle-falk.md)
-  * [Gustav Walter](projekt/hoestprojekt-halloween/gustav-walter.md)
+* [Höstprojekt - Halloween](kapitel-10/hoestprojekt-halloween/README.md)
+  * [Hampus Åberg](kapitel-10/hoestprojekt-halloween/hampus-aberg.md)
+  * [Carl Edenflod](kapitel-10/hoestprojekt-halloween/carl-edenflod.md)
+  * [Olle Falk](kapitel-10/hoestprojekt-halloween/olle-falk.md)
+  * [Gustav Walter](kapitel-10/hoestprojekt-halloween/gustav-walter.md)
 
-## Javascript
+## Javascript <a id="kapitel-11"></a>
 
-* [Exempel på Javascript](javascript/exempel-pa-javascript.md)
+* [Exempel på Javascript](kapitel-11/exempel-pa-javascript.md)
 
